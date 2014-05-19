@@ -1,0 +1,5567 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Kina xmlns="http://tempuri.org/Kina.xsd">
+  <Kino>
+    <Id_Kina>1</Id_Kina>
+    <Id_Miasta>1</Id_Miasta>
+    <Nazwa>Forum</Nazwa>
+    <Ulica>Legionowa 5</Ulica>
+    <Telefon>85 7421515</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.bok.bialystok.pl</WWW>
+    <Lokalizacja>53.1296905,23.158366</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>4</Id_Kina>
+    <Id_Miasta>2</Id_Miasta>
+    <Nazwa>Adria</Nazwa>
+    <Ulica>Toruńska 30</Ulica>
+    <Telefon>52 3712739</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoadria.pl</WWW>
+    <Lokalizacja>53.1192576,18.011262</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>169</Id_Kina>
+    <Id_Miasta>2</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Focha 48</Ulica>
+    <Telefon>52 5523810</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>53.12645,17.9892221</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>10</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Helikon</Nazwa>
+    <Ulica>Długa 57</Ulica>
+    <Telefon>58 3015331</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.neptunfilm.pl</WWW>
+    <Lokalizacja>54.3490779,18.6514697</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>11</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Kameralne</Nazwa>
+    <Ulica>Długa 57</Ulica>
+    <Telefon>58 3015331</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.neptunfilm.pl</WWW>
+    <Lokalizacja>54.3490779,18.6514697</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>15</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Al. Zwycięstwa 14</Ulica>
+    <Telefon>58 7659310</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.3721279,18.6269876</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>12</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Neptun</Nazwa>
+    <Ulica>Długa 57</Ulica>
+    <Telefon>58 3018256</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.neptunfilm.pl</WWW>
+    <Lokalizacja>54.3490779,18.6514697</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>166</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Żak</Nazwa>
+    <Ulica>Grunwaldzka 195/197</Ulica>
+    <Telefon>58 3440573</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.klubzak.com.pl</WWW>
+    <Lokalizacja>54.3869862,18.5922026</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>167</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Cinema City Krewetka</Nazwa>
+    <Ulica>Karmelicka 1</Ulica>
+    <Telefon>58 7693000</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>54.3548727,18.6466627</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>173</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Kołobrzeska 41C</Ulica>
+    <Telefon>58 7679999</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>54.4043352,18.587545</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>18</Id_Kina>
+    <Id_Miasta>4</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Waszyngtona 21</Ulica>
+    <Telefon>58 7659610</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.5198202,18.5480839</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>22</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Rialto</Nazwa>
+    <Ulica>Św. Jana 24</Ulica>
+    <Telefon>32 2510431</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.rialto.katowice.pl</WWW>
+    <Lokalizacja>50.2566148,19.0212048</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>24</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Światowid</Nazwa>
+    <Ulica>3 Maja 7</Ulica>
+    <Telefon>32 2587432</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.swiatowid.katowice.pl</WWW>
+    <Lokalizacja>50.2597853,19.0196066</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>171</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>IMAX</Nazwa>
+    <Ulica>Gliwicka 44</Ulica>
+    <Telefon>32 3595959</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoimax.pl</WWW>
+    <Lokalizacja>50.2624837,19.0060485</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>158</Id_Kina>
+    <Id_Miasta>6</Id_Miasta>
+    <Nazwa>Moskwa</Nazwa>
+    <Ulica>Staszica 5</Ulica>
+    <Telefon>41 3444734 lub 519 173 873</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinomoskwa.pl</WWW>
+    <Lokalizacja>50.8707515,20.6262557</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>26</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Aneks</Nazwa>
+    <Ulica>Św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>29</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kijów</Nazwa>
+    <Ulica>Al. Krasińskiego 34</Ulica>
+    <Telefon>12 4330033</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kijow.pl</WWW>
+    <Lokalizacja>50.0584454,19.92515</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>31</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Kiniarnia</Nazwa>
+    <Ulica>Św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>33</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Mikro</Nazwa>
+    <Ulica>Lea 5</Ulica>
+    <Telefon>12 6342897</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinomikro.pl</WWW>
+    <Lokalizacja>50.0694749,19.9237717</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>34</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Dobrego Pasterza 128</Ulica>
+    <Telefon>12 2984610</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.0891279,19.9849148</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>37</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Pod Baranami</Nazwa>
+    <Ulica>Rynek Główny 27</Ulica>
+    <Telefon>12 4230768</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinopodbaranami.pl</WWW>
+    <Lokalizacja>50.0616109,19.9356864</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>38</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Reduta</Nazwa>
+    <Ulica>Św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>40</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Sfinks</Nazwa>
+    <Ulica>os. Górali 5</Ulica>
+    <Telefon>12 6442765</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinosfinks.pl</WWW>
+    <Lokalizacja>50.0797081,20.0367038</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>41</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Sztuka</Nazwa>
+    <Ulica>Św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>45</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Wrzos</Nazwa>
+    <Ulica>Zamojskiego 50</Ulica>
+    <Telefon>12 6561050</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoteatrwrzos.pl</WWW>
+    <Lokalizacja>50.0405049,19.9439284</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>168</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>IMAX</Nazwa>
+    <Ulica>Al. Pokoju 44</Ulica>
+    <Telefon>12 2909090</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoimax.pl</WWW>
+    <Lokalizacja>50.0636463,19.9849222</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>196</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Cinema City Plaza</Nazwa>
+    <Ulica>Al. Pokoju 44</Ulica>
+    <Telefon>12 2909080</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.0636463,19.9849222</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>197</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Cinema City Zakopianka</Nazwa>
+    <Ulica>Zakopiańska 62</Ulica>
+    <Telefon>12 2959595</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.0141512,19.9277186</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>48</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Bajka</Nazwa>
+    <Ulica>Radziszewskiego 8</Ulica>
+    <Telefon>81 5338872</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinobajka.info</WWW>
+    <Lokalizacja>51.246412,22.5438753</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>49</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Chatka Żaka</Nazwa>
+    <Ulica>Radziszewskiego 16</Ulica>
+    <Telefon>81 5335841</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.chatkazaka.kina.lublin.pl</WWW>
+    <Lokalizacja>51.2452301,22.5381737</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>61</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Bałtyk</Nazwa>
+    <Ulica>Narutowicza 20</Ulica>
+    <Telefon>42 6303603</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.0740995,19.4474264</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>56</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Charlie</Nazwa>
+    <Ulica>Piotrkowska 203/205</Ulica>
+    <Telefon>42 6360092</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.charlie.pl</WWW>
+    <Lokalizacja>51.7550687,19.4590472</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>59</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Szpulka</Nazwa>
+    <Ulica>Traugutta 18</Ulica>
+    <Telefon>42 6339800</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ldk.lodz.pl</WWW>
+    <Lokalizacja>51.7695,19.46189</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>68</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>ŁDK Kameralne</Nazwa>
+    <Ulica>Traugutta 18</Ulica>
+    <Telefon>42 6339800</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ldk.lodz.pl</WWW>
+    <Lokalizacja>51.7695,19.46189</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>66</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Al. Piłsudskiego 5</Ulica>
+    <Telefon>42 2327210</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>51.7591431,19.4602655</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>159</Id_Kina>
+    <Id_Miasta>11</Id_Miasta>
+    <Nazwa>Studio</Nazwa>
+    <Ulica>Strzelców Bytomskich 1</Ulica>
+    <Telefon>77 4542714</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>http://www.mdk.punkt.pl/zip/studio.php</WWW>
+    <Lokalizacja>50.6653474,17.9215619</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>76</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Cinema City Kinepolis</Nazwa>
+    <Ulica>Bolesława Krzywoustego 72</Ulica>
+    <Telefon>61 8715600</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.37429,16.98046</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>77</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Charlie Monroe Kino Malta</Nazwa>
+    <Ulica>Rybaki 6a</Ulica>
+    <Telefon>61 8772495</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.charliemonroe.pl</WWW>
+    <Lokalizacja>52.40262,16.93205</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>78</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Multikino 51</Nazwa>
+    <Ulica>Królowej Jadwigi 51</Ulica>
+    <Telefon>61 6281510</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.39930,16.92926</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>79</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Muza</Nazwa>
+    <Ulica>Święty Marcin 30</Ulica>
+    <Telefon>61 8523403</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.muza.gutekfilm.pl</WWW>
+    <Lokalizacja>52.40627,16.92668</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>81</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Pałacowe</Nazwa>
+    <Ulica>Święty Marcin 80/82</Ulica>
+    <Telefon>61 8526913</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.zamek.poznan.pl</WWW>
+    <Lokalizacja>52.40795,16.91864</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>82</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Rialto</Nazwa>
+    <Ulica>Dąbrowskiego 38</Ulica>
+    <Telefon>61 8475399</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinorialto.poznan.pl</WWW>
+    <Lokalizacja>52.41188,16.90665</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>88</Id_Kina>
+    <Id_Miasta>13</Id_Miasta>
+    <Nazwa>Zorza</Nazwa>
+    <Ulica>3 Maja 28</Ulica>
+    <Telefon>17 8532637</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinozorza.pl</WWW>
+    <Lokalizacja>50.03496,22.00082</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>170</Id_Kina>
+    <Id_Miasta>13</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Al. Powstańców Warszawy 14</Ulica>
+    <Telefon>17 8540064</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>50.01910,21.99056</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>97</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Pionier 1907</Nazwa>
+    <Ulica>Al. Wojska Polskiego 2</Ulica>
+    <Telefon>91 4347702</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-pionier.com.pl</WWW>
+    <Lokalizacja>53.42634,14.54564</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>99</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Zamek</Nazwa>
+    <Ulica>Korsarzy 34</Ulica>
+    <Telefon>91 4347392</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.zamek.szczecin.pl</WWW>
+    <Lokalizacja>53.42640,14.55950</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>104</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Atlantic</Nazwa>
+    <Ulica>Chmielna 33</Ulica>
+    <Telefon>22 8270894</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoatlantic.pl</WWW>
+    <Lokalizacja>52.23176,21.01274</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>108</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Bemowo</Nazwa>
+    <Ulica>Powstańców 126a</Ulica>
+    <Telefon>22 5604000</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.26579,20.93270</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>109</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Sadyba</Nazwa>
+    <Ulica>Powsińska 31</Ulica>
+    <Telefon>22 5503333</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.18732,21.06116</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>113</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Femina</Nazwa>
+    <Ulica>Al. Solidarności 115</Ulica>
+    <Telefon>22 6544545</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>52.24192,20.99456</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>115</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Iluzjon Filmoteki Narodowej</Nazwa>
+    <Ulica>Narbutta 50a</Ulica>
+    <Telefon>22 6461260</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.fn.org.pl</WWW>
+    <Lokalizacja>52.2056200,21.0108400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>117</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kinoteka</Nazwa>
+    <Ulica>Pl. Defilad 1</Ulica>
+    <Telefon>22 5517070</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoteka.pl</WWW>
+    <Lokalizacja>52.23190,21.00683</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>118</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kultura</Nazwa>
+    <Ulica>Krakowskie Przedmieście 21/23</Ulica>
+    <Telefon>22 8263335</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinokultura.pl</WWW>
+    <Lokalizacja>52.24340,21.01412</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>116</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino.Lab</Nazwa>
+    <Ulica>Jazdów 2</Ulica>
+    <Telefon>22 6281271</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.csw.art.pl/kino_lab</WWW>
+    <Lokalizacja>52.21952,21.03053</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>119</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Luna</Nazwa>
+    <Ulica>Marszałkowska 28</Ulica>
+    <Telefon>22 6217828</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoluna.pl</WWW>
+    <Lokalizacja>52.21883,21.01890</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>120</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Multikino Ursynów</Nazwa>
+    <Ulica>Al. Komisji Edukacji Narodowej 60</Ulica>
+    <Telefon>22 4628810</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.14980,21.04697</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>121</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Muranów</Nazwa>
+    <Ulica>gen. Andersa 1</Ulica>
+    <Telefon>22 6352529</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.muranow.gutekfilm.com.pl</WWW>
+    <Lokalizacja>52.24492,20.99954</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>125</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>IMAX</Nazwa>
+    <Ulica>Powsińska 31</Ulica>
+    <Telefon>22 5503333</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoimax.pl</WWW>
+    <Lokalizacja>52.18732,21.06116</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>128</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino Praha</Nazwa>
+    <Ulica>Jagiellońska 26</Ulica>
+    <Telefon>22 3430310</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinopraha.pl</WWW>
+    <Lokalizacja>52.25166,21.03566</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>160</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Janki</Nazwa>
+    <Ulica>Mszczonowska 3C</Ulica>
+    <Telefon>22 7024000</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.12916,20.89884</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>133</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Mokotów</Nazwa>
+    <Ulica>Wołoska 12</Ulica>
+    <Telefon>22 4566500</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.17892,21.00377</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>134</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Promenada</Nazwa>
+    <Ulica>Ostrobramska 75C</Ulica>
+    <Telefon>22 6117515</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.23157,21.10531</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>138</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Świt</Nazwa>
+    <Ulica>Wysockiego 11</Ulica>
+    <Telefon>22 8110105</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dkswit.com.pl</WWW>
+    <Lokalizacja>52.28488,21.02150</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>135</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Ursus</Nazwa>
+    <Ulica>Traktorzystów 14</Ulica>
+    <Telefon>22 4783454</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.arsus.pl</WWW>
+    <Lokalizacja>52.19876,20.89040</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>137</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Wisła</Nazwa>
+    <Ulica>Pl. Wilsona 2</Ulica>
+    <Telefon>22 8392365</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.novekino.pl</WWW>
+    <Lokalizacja>52.26948,20.98667</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>143</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Lwów</Nazwa>
+    <Ulica>Hallera 17</Ulica>
+    <Telefon>71 7935078</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.odra-film.wroc.pl</WWW>
+    <Lokalizacja>51.0876577,17.0088268</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>145</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Cinema City Korona</Nazwa>
+    <Ulica>Krzywoustego 126c</Ulica>
+    <Telefon>71 3236000</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>51.1418441,17.0874233</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>150</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Dolnośląskie Centrum Filmowe</Nazwa>
+    <Ulica>Piłsudskiego 64a</Ulica>
+    <Telefon>71 7937900</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.dcf.wroclaw.pl</WWW>
+    <Lokalizacja>51.101708,17.0304467</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>165</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Kino Nowe Horyzonty</Nazwa>
+    <Ulica>Kazimierza Wielkiego 19A/21</Ulica>
+    <Telefon>71 7866566</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinonh.pl</WWW>
+    <Lokalizacja>51.1095191,17.026303</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>151</Id_Kina>
+    <Id_Miasta>19</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Gdańska 18</Ulica>
+    <Telefon>32 7205010</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.3173246,18.7771865</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>187</Id_Kina>
+    <Id_Miasta>19</Id_Miasta>
+    <Nazwa>Roma</Nazwa>
+    <Ulica>Padlewskiego 4</Ulica>
+    <Telefon>32 2716291</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoroma.zabrze.pl</WWW>
+    <Lokalizacja>50.3039776,18.7866427</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>154</Id_Kina>
+    <Id_Miasta>20</Id_Miasta>
+    <Nazwa>Newa</Nazwa>
+    <Ulica>Al. Niepodległości 36</Ulica>
+    <Telefon>68 3255984</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kkf.zgora.pl</WWW>
+    <Lokalizacja>51.9441977,15.5134568</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>153</Id_Kina>
+    <Id_Miasta>20</Id_Miasta>
+    <Nazwa>Nysa</Nazwa>
+    <Ulica>Al. Niepodległości 4</Ulica>
+    <Telefon>68 3202282</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.odra-film.wroc.pl</WWW>
+    <Lokalizacja>51.94062,15.50681</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>174</Id_Kina>
+    <Id_Miasta>21</Id_Miasta>
+    <Nazwa>Centrum 3D</Nazwa>
+    <Ulica>Konarskiego 9</Ulica>
+    <Telefon>16 6783550</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.ck.przemysl.pl</WWW>
+    <Lokalizacja>49.781438,22.7811915</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>176</Id_Kina>
+    <Id_Miasta>22</Id_Miasta>
+    <Nazwa>Marzenie</Nazwa>
+    <Ulica>Staszica 4</Ulica>
+    <Telefon>14 6888885</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.tck.pl</WWW>
+    <Lokalizacja>50.011762,20.9833798</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>177</Id_Kina>
+    <Id_Miasta>22</Id_Miasta>
+    <Nazwa>Millenium</Nazwa>
+    <Ulica>Traugutta 1</Ulica>
+    <Telefon>14 6334604</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mck.tarnow.pl</WWW>
+    <Lokalizacja>50.009833,20.92706</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>178</Id_Kina>
+    <Id_Miasta>23</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Słowackiego 123</Ulica>
+    <Telefon>44 7159155</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.4099493,19.670084</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>182</Id_Kina>
+    <Id_Miasta>25</Id_Miasta>
+    <Nazwa>Centrum 3D</Nazwa>
+    <Ulica>Łazienna 6</Ulica>
+    <Telefon>62 7652552</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ckis.kalisz.pl</WWW>
+    <Lokalizacja>51.7615133,18.0934609</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>183</Id_Kina>
+    <Id_Miasta>27</Id_Miasta>
+    <Nazwa>Oskard 3D</Nazwa>
+    <Ulica>1 Maja 7a</Ulica>
+    <Telefon>63 2423940</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.oskard.konin.pl</WWW>
+    <Lokalizacja>52.2280693,18.2544535</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>184</Id_Kina>
+    <Id_Miasta>27</Id_Miasta>
+    <Nazwa>Kino Studyjne Centrum</Nazwa>
+    <Ulica>Niepodległości 1</Ulica>
+    <Telefon>63 2113133</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kdk.konin.pl</WWW>
+    <Lokalizacja>52.2261019,18.2505138</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>232</Id_Kina>
+    <Id_Miasta>27</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Paderewskiego 8</Ulica>
+    <Telefon>63 2420033</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>52.23834,18.2610412</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>185</Id_Kina>
+    <Id_Miasta>28</Id_Miasta>
+    <Nazwa>Kino Centrum</Nazwa>
+    <Ulica>Narutowicza 69</Ulica>
+    <Telefon>65 5299270</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ckisleszno.pl</WWW>
+    <Lokalizacja>51.850308,16.5755157</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>189</Id_Kina>
+    <Id_Miasta>31</Id_Miasta>
+    <Nazwa>NoveKino Przedwiośnie</Nazwa>
+    <Ulica>Tumska 5a</Ulica>
+    <Telefon>24 3676500</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.novekino.pl</WWW>
+    <Lokalizacja>52.54354,19.68963</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>192</Id_Kina>
+    <Id_Miasta>33</Id_Miasta>
+    <Nazwa>Millenium</Nazwa>
+    <Ulica>Wojska Polskiego 5</Ulica>
+    <Telefon>86 2167519</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-millenium.pl</WWW>
+    <Lokalizacja>53.1802056,22.0732257</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>222</Id_Kina>
+    <Id_Miasta>34</Id_Miasta>
+    <Nazwa>Zorza</Nazwa>
+    <Ulica>Strażacka 4</Ulica>
+    <Telefon>82 5655422</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>kinozorza.wordpress.com</WWW>
+    <Lokalizacja>50.3850215,19.7602166</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>225</Id_Kina>
+    <Id_Miasta>35</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Mostowa 5</Ulica>
+    <Telefon>33 4987015</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>49.8267882,19.0487543</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>226</Id_Kina>
+    <Id_Miasta>35</Id_Miasta>
+    <Nazwa>Studio</Nazwa>
+    <Ulica>Cieszyńska 24</Ulica>
+    <Telefon>33 8126341</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.sfr.com.pl</WWW>
+    <Lokalizacja>49.8194483,19.040122</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>195</Id_Kina>
+    <Id_Miasta>36</Id_Miasta>
+    <Nazwa>Apollo</Nazwa>
+    <Ulica>Armii Krajowej 42</Ulica>
+    <Telefon>74 8478971</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-apollo.pl</WWW>
+    <Lokalizacja>50.7856694,16.2873401</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>198</Id_Kina>
+    <Id_Miasta>37</Id_Miasta>
+    <Nazwa>Grand</Nazwa>
+    <Ulica>Krótka 3</Ulica>
+    <Telefon>75 7522378</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogrand.pl</WWW>
+    <Lokalizacja>50.9021207,15.7344766</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>202</Id_Kina>
+    <Id_Miasta>37</Id_Miasta>
+    <Nazwa>Lot</Nazwa>
+    <Ulica>Pocztowa 11</Ulica>
+    <Telefon>75 7676370</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.jg24.pl</WWW>
+    <Lokalizacja>50.9020435,15.7415331</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>200</Id_Kina>
+    <Id_Miasta>38</Id_Miasta>
+    <Nazwa>Koral</Nazwa>
+    <Ulica>Pl. Staszica 1</Ulica>
+    <Telefon>67 2122893</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.pdk.pila.pl</WWW>
+    <Lokalizacja>53.14596,16.74383</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>201</Id_Kina>
+    <Id_Miasta>39</Id_Miasta>
+    <Nazwa>Kryterium</Nazwa>
+    <Ulica>Zwycięstwa 105</Ulica>
+    <Telefon>94 3465878</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.ck105.koszalin.pl</WWW>
+    <Lokalizacja>54.1900266,16.185671</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>203</Id_Kina>
+    <Id_Miasta>40</Id_Miasta>
+    <Nazwa>Łydynia</Nazwa>
+    <Ulica>Strażacka 5</Ulica>
+    <Telefon>23 6723509</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.pckisz.pl</WWW>
+    <Lokalizacja>52.8777776,20.6149121</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>214</Id_Kina>
+    <Id_Miasta>41</Id_Miasta>
+    <Nazwa>Rejs</Nazwa>
+    <Ulica>Al. 3 Maja 22</Ulica>
+    <Telefon>59 8431130</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.emcek.pl</WWW>
+    <Lokalizacja>54.4740625,17.0081374</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>210</Id_Kina>
+    <Id_Miasta>43</Id_Miasta>
+    <Nazwa>Piast</Nazwa>
+    <Ulica>Biskupia 6</Ulica>
+    <Telefon>76 7218604</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.odra-film.wroc.pl</WWW>
+    <Lokalizacja>51.2094811,16.1661498</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>211</Id_Kina>
+    <Id_Miasta>44</Id_Miasta>
+    <Nazwa>Polonez</Nazwa>
+    <Ulica>Wita Stwosza 2/4</Ulica>
+    <Telefon>46 8334489</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mokskierniewice.pl</WWW>
+    <Lokalizacja>51.9608807,20.1472076</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>217</Id_Kina>
+    <Id_Miasta>46</Id_Miasta>
+    <Nazwa>Sokół</Nazwa>
+    <Ulica>Długosza 3</Ulica>
+    <Telefon>18 4482643</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mcksokol.pl</WWW>
+    <Lokalizacja>49.6222482,20.694777</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>218</Id_Kina>
+    <Id_Miasta>47</Id_Miasta>
+    <Nazwa>Sokół</Nazwa>
+    <Ulica>Grodzka 15</Ulica>
+    <Telefon>13 4320028</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinosokol-krosno.pl</WWW>
+    <Lokalizacja>49.689738,21.766847</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>219</Id_Kina>
+    <Id_Miasta>48</Id_Miasta>
+    <Nazwa>CKF Stylowy</Nazwa>
+    <Ulica>Odrodzenia 9</Ulica>
+    <Telefon>84 6392313</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.stylowy.net</WWW>
+    <Lokalizacja>50.71400,23.26900</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>220</Id_Kina>
+    <Id_Miasta>49</Id_Miasta>
+    <Nazwa>Światowid</Nazwa>
+    <Ulica>Pl. Kazimierza Jagiellończyka 1</Ulica>
+    <Telefon>55 6112068</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.swiatowid.elblag.pl</WWW>
+    <Lokalizacja>54.1669221,19.4045979</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>223</Id_Kina>
+    <Id_Miasta>50</Id_Miasta>
+    <Nazwa>Merkury</Nazwa>
+    <Ulica>Brzeska 43</Ulica>
+    <Telefon>83 3432897</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.novekino.pl/kina/merkury/index.php</WWW>
+    <Lokalizacja>52.0355867,23.1269988</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>224</Id_Kina>
+    <Id_Miasta>52</Id_Miasta>
+    <Nazwa>Jantar</Nazwa>
+    <Ulica>Inwalidów Wojennych 23</Ulica>
+    <Telefon>29 7664589</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.ock-ostroleka.pl</WWW>
+    <Lokalizacja>53.0806676,21.5762355</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>233</Id_Kina>
+    <Id_Miasta>51</Id_Miasta>
+    <Nazwa>Cinema City Wolność</Nazwa>
+    <Ulica>Kościuszki 5</Ulica>
+    <Telefon>34 3717171</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.7902581,18.9603885</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>234</Id_Kina>
+    <Id_Miasta>51</Id_Miasta>
+    <Nazwa>Kino Studyjne Iluzja</Nazwa>
+    <Ulica>Al. NMP 64</Ulica>
+    <Telefon>34 3246058</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.okf.czest.pl</WWW>
+    <Lokalizacja>50.8130105,19.1046568</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>235</Id_Kina>
+    <Id_Miasta>11</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Pl. Kopernika 17</Ulica>
+    <Telefon>77 4566655</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>50.67087,17.92664</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>236</Id_Kina>
+    <Id_Miasta>47</Id_Miasta>
+    <Nazwa>artKino</Nazwa>
+    <Ulica>Bieszadzka 1</Ulica>
+    <Telefon>13 4321223</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.rckp.krosno.pl</WWW>
+    <Lokalizacja>49.678723,21.774748</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>241</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Bolesława Krzywoustego 9/10</Ulica>
+    <Telefon>91 4851238</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.42680,14.54198</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>243</Id_Kina>
+    <Id_Miasta>54</Id_Miasta>
+    <Nazwa>Bałtyk</Nazwa>
+    <Ulica>Londzina 13</Ulica>
+    <Telefon>32 4152033</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinobaltyk.pl</WWW>
+    <Lokalizacja>50.0949052,18.2145337</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>247</Id_Kina>
+    <Id_Miasta>58</Id_Miasta>
+    <Nazwa>Sokół</Nazwa>
+    <Ulica>Orkana 2</Ulica>
+    <Telefon>18 2014040</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinosokol.z-ne.pl</WWW>
+    <Lokalizacja>49.2926327,19.9524406</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>248</Id_Kina>
+    <Id_Miasta>59</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>1 Maja 310</Ulica>
+    <Telefon>32 3404040</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.2755001,18.8661077</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>249</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Cinema City Punkt 44</Nazwa>
+    <Ulica>Gliwicka 44</Ulica>
+    <Telefon>32 3595959</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.2624837,19.0060485</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>250</Id_Kina>
+    <Id_Miasta>61</Id_Miasta>
+    <Nazwa>Ballada</Nazwa>
+    <Ulica>Staszica 14</Ulica>
+    <Telefon>15 8425607</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoballada.info</WWW>
+    <Lokalizacja>50.5669388,22.0673972</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>252</Id_Kina>
+    <Id_Miasta>55</Id_Miasta>
+    <Nazwa>Chemik</Nazwa>
+    <Ulica>Jana Pawła II 27</Ulica>
+    <Telefon>77 4832925</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.com.pl</WWW>
+    <Lokalizacja>50.347406,18.21538</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>253</Id_Kina>
+    <Id_Miasta>6</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Świętokrzyska 20</Ulica>
+    <Telefon>41 3321330</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.www.heliosnet.pl</WWW>
+    <Lokalizacja>50.8805441,20.6479706</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>254</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Multikino Targówek</Nazwa>
+    <Ulica>Głębocka 15</Ulica>
+    <Telefon>22 4894010</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.30284,21.05753</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>255</Id_Kina>
+    <Id_Miasta>53</Id_Miasta>
+    <Nazwa>AMOK</Nazwa>
+    <Ulica>Dolnych Wałów 3</Ulica>
+    <Telefon>32 2315699</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.amok.gliwice.pl</WWW>
+    <Lokalizacja>50.2940300,18.6682000</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>258</Id_Kina>
+    <Id_Miasta>58</Id_Miasta>
+    <Nazwa>Giewont</Nazwa>
+    <Ulica>Kościuszki 4</Ulica>
+    <Telefon>18 2015304</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogiewont.z-ne.pl</WWW>
+    <Lokalizacja>49.2948008,19.9526626</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>260</Id_Kina>
+    <Id_Miasta>98</Id_Miasta>
+    <Nazwa>Lot</Nazwa>
+    <Ulica>Kard. St. Wyszyńskiego 14</Ulica>
+    <Telefon>81 7512461</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.swidnik.pl</WWW>
+    <Lokalizacja>51.218522,22.6999803</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>261</Id_Kina>
+    <Id_Miasta>61</Id_Miasta>
+    <Nazwa>Wrzos</Nazwa>
+    <Ulica>1 Sierpnia 9</Ulica>
+    <Telefon>15 8428599</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mdkstalowawola.pl</WWW>
+    <Lokalizacja>50.5676569,22.0542075</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>263</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Uniwersytecka 13</Ulica>
+    <Telefon>32 6030101</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>50.2615887,19.0248545</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>265</Id_Kina>
+    <Id_Miasta>64</Id_Miasta>
+    <Nazwa>Jubilat</Nazwa>
+    <Ulica>Pl. Konstytucji 3 Maja 3</Ulica>
+    <Telefon>76 7276959</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.odra-film.wroc.pl</WWW>
+    <Lokalizacja>51.6619184,16.0834752</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>266</Id_Kina>
+    <Id_Miasta>65</Id_Miasta>
+    <Nazwa>Teatr</Nazwa>
+    <Ulica>Katedralna 18</Ulica>
+    <Telefon>55 2793424</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kck.ckj.edu.pl</WWW>
+    <Lokalizacja>53.7371799,18.923496</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>267</Id_Kina>
+    <Id_Miasta>54</Id_Miasta>
+    <Nazwa>Przemko</Nazwa>
+    <Ulica>Londzina 38</Ulica>
+    <Telefon>32 4152540</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.rck.com.pl</WWW>
+    <Lokalizacja>50.0960583,18.2125461</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>268</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Paradox</Nazwa>
+    <Ulica>Krupnicza 38</Ulica>
+    <Telefon>12 4300015 w. 211</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoparadox.pl</WWW>
+    <Lokalizacja>50.0627338,19.9265453</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>270</Id_Kina>
+    <Id_Miasta>66</Id_Miasta>
+    <Nazwa>Forum</Nazwa>
+    <Ulica>Pl. Piłsudskiego 1c</Ulica>
+    <Telefon>75 6453292</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.bok.boleslawiec.pl</WWW>
+    <Lokalizacja>51.2618536,15.5698133</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>271</Id_Kina>
+    <Id_Miasta>67</Id_Miasta>
+    <Nazwa>Muza</Nazwa>
+    <Ulica>Armii Krajowej 1</Ulica>
+    <Telefon>76 7462266</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.ckmuza.eu</WWW>
+    <Lokalizacja>51.399343,16.20455</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>272</Id_Kina>
+    <Id_Miasta>68</Id_Miasta>
+    <Nazwa>Świt</Nazwa>
+    <Ulica>Niepodległości 42</Ulica>
+    <Telefon>32 2153159</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mdk-cz-dz.com.pl</WWW>
+    <Lokalizacja>49.9097805,19.0056608</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>274</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Wyzwolenia 18-20</Ulica>
+    <Telefon>91 8312410</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>53.43380,14.55524</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>275</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Salon</Nazwa>
+    <Ulica>Św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>276</Id_Kina>
+    <Id_Miasta>70</Id_Miasta>
+    <Nazwa>Centrum</Nazwa>
+    <Ulica>Teatralna 1</Ulica>
+    <Telefon>33 8233156</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.wck.wadowice.pl</WWW>
+    <Lokalizacja>49.88578,19.4943738</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>278</Id_Kina>
+    <Id_Miasta>72</Id_Miasta>
+    <Nazwa>Regis</Nazwa>
+    <Ulica>Regis 1</Ulica>
+    <Telefon>14 6116935</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.bochnia.pl</WWW>
+    <Lokalizacja>49.970286,20.42862</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>279</Id_Kina>
+    <Id_Miasta>73</Id_Miasta>
+    <Nazwa>Panorama</Nazwa>
+    <Ulica>Wolności 19/21</Ulica>
+    <Telefon>508 733 983</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinopanorama.pl</WWW>
+    <Lokalizacja>50.2965626,18.9510022</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>280</Id_Kina>
+    <Id_Miasta>74</Id_Miasta>
+    <Nazwa>Cyfrowe Kino Hawana 3D</Nazwa>
+    <Ulica>Chrobrego 28</Ulica>
+    <Telefon>94 3189830</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>54.26041150583606,16.066818237304688</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>281</Id_Kina>
+    <Id_Miasta>75</Id_Miasta>
+    <Nazwa>Centrum</Nazwa>
+    <Ulica>Al. Piłsudskiego 27</Ulica>
+    <Telefon>32 4717924</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mokjastrzebie.pl</WWW>
+    <Lokalizacja>49.9513223,18.5979919</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>282</Id_Kina>
+    <Id_Miasta>76</Id_Miasta>
+    <Nazwa>Janosik</Nazwa>
+    <Ulica>Sobieskiego 1</Ulica>
+    <Telefon>33 8612003</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinojanosik.pl</WWW>
+    <Lokalizacja>49.6894054,19.2000147</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>283</Id_Kina>
+    <Id_Miasta>77</Id_Miasta>
+    <Nazwa>Beskid</Nazwa>
+    <Ulica>Beskidzka 106</Ulica>
+    <Telefon>33 8178599</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.szczyrk.pl</WWW>
+    <Lokalizacja>49.71792,19.034286</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>285</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Cinema City Arkadia</Nazwa>
+    <Ulica>Al. Jana Pawła II 82</Ulica>
+    <Telefon>22 3212121</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.25652,20.98394</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>286</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Multikino Wola</Nazwa>
+    <Ulica>Górczewska 124</Ulica>
+    <Telefon>22 4628310</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.2413843,20.9312364</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>289</Id_Kina>
+    <Id_Miasta>80</Id_Miasta>
+    <Nazwa>Jaworzyna</Nazwa>
+    <Ulica>Marszałka Józefa Piłsudskiego 19</Ulica>
+    <Telefon>18 4712060</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ck.krynica.pl</WWW>
+    <Lokalizacja>49.4231446,20.9577678</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>291</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Apollo</Nazwa>
+    <Ulica>Ratajczaka 18</Ulica>
+    <Telefon>61 8523402</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoapollo.pl</WWW>
+    <Lokalizacja>52.40493,16.92475</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>292</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Cinema City Kazimierz</Nazwa>
+    <Ulica>Podgórska 34</Ulica>
+    <Telefon>12 2545454</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.0530022,19.9565344</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>295</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kijów Studio</Nazwa>
+    <Ulica>Al.Krasińskiego 34</Ulica>
+    <Telefon>12 4330033</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kijow.pl</WWW>
+    <Lokalizacja>50.0584454,19.92515</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>296</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Cinema City Plaza</Nazwa>
+    <Ulica>K. Drużbickiego 2</Ulica>
+    <Telefon>61 6626262</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>52.44066,16.91903</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>297</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>IMAX</Nazwa>
+    <Ulica>K. Drużbickiego 2</Ulica>
+    <Telefon>61 6626262</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoimax.pl</WWW>
+    <Lokalizacja>52.44066,16.91903</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>298</Id_Kina>
+    <Id_Miasta>16</Id_Miasta>
+    <Nazwa>Cinema City Czerwona Droga</Nazwa>
+    <Ulica>Czerwona Droga 1-6</Ulica>
+    <Telefon>56 6646464</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>53.0145882,18.5996123</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>299</Id_Kina>
+    <Id_Miasta>81</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Pałucka 2</Ulica>
+    <Telefon>61 4266619</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>52.560682,17.6124558</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>306</Id_Kina>
+    <Id_Miasta>82</Id_Miasta>
+    <Nazwa>Wybrzeże</Nazwa>
+    <Ulica>Łopuskiego 24</Ulica>
+    <Telefon>94 3523632</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinowybrzeze.pl</WWW>
+    <Lokalizacja>54.1772804,15.5709958</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>307</Id_Kina>
+    <Id_Miasta>83</Id_Miasta>
+    <Nazwa>Żeglarz</Nazwa>
+    <Ulica>Portowa 10</Ulica>
+    <Telefon>58 6752148</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinozeglarz.pl</WWW>
+    <Lokalizacja>54.69937,18.67593</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>309</Id_Kina>
+    <Id_Miasta>84</Id_Miasta>
+    <Nazwa>Rybak</Nazwa>
+    <Ulica>Morska 1</Ulica>
+    <Telefon>59 8661443</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinorybak.eu</WWW>
+    <Lokalizacja>54.7615142,17.5548148</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>310</Id_Kina>
+    <Id_Miasta>85</Id_Miasta>
+    <Nazwa>Delfin</Nazwa>
+    <Ulica>Marynarki Polskiej 82</Ulica>
+    <Telefon>59 8144677</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.ustka.pl</WWW>
+    <Lokalizacja>54.581256,16.8604126</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>311</Id_Kina>
+    <Id_Miasta>86</Id_Miasta>
+    <Nazwa>Bajka</Nazwa>
+    <Ulica>Morska 56</Ulica>
+    <Telefon>94 3142629</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dokdarlowo.pl</WWW>
+    <Lokalizacja>54.4238356,16.4027597</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>314</Id_Kina>
+    <Id_Miasta>88</Id_Miasta>
+    <Nazwa>Galaktyka</Nazwa>
+    <Ulica>Niepodległości 7</Ulica>
+    <Telefon>17 5862021</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogalaktyka.pl</WWW>
+    <Lokalizacja>50.2958667,21.4409594</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>316</Id_Kina>
+    <Id_Miasta>90</Id_Miasta>
+    <Nazwa>Komeda</Nazwa>
+    <Ulica>Powstańców Wlkp. 22</Ulica>
+    <Telefon>62 5917445</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-komeda.info</WWW>
+    <Lokalizacja>51.6457333,17.8200288</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>319</Id_Kina>
+    <Id_Miasta>93</Id_Miasta>
+    <Nazwa>Na Starówce</Nazwa>
+    <Ulica>Kościuszki 3</Ulica>
+    <Telefon>32 4342127</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.zory.pl</WWW>
+    <Lokalizacja>50.0448521,18.695607</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>323</Id_Kina>
+    <Id_Miasta>96</Id_Miasta>
+    <Nazwa>Metalowiec</Nazwa>
+    <Ulica>Al. Niepodległości 44</Ulica>
+    <Telefon>81 8256336</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.krasnik.art.pl</WWW>
+    <Lokalizacja>50.9633186,22.1563466</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>324</Id_Kina>
+    <Id_Miasta>49</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Teatralna 5</Ulica>
+    <Telefon>55 6255024</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.1653373,19.4009186</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>327</Id_Kina>
+    <Id_Miasta>97</Id_Miasta>
+    <Nazwa>Kultura</Nazwa>
+    <Ulica>Pl. Narutowicza 1A</Ulica>
+    <Telefon>44 6350051</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mckbel.eu</WWW>
+    <Lokalizacja>51.3669264,19.3699342</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>329</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Cinema City Silesia</Nazwa>
+    <Ulica>Chorzowska 107</Ulica>
+    <Telefon>32 6050555</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.2648919,19.0237815</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>330</Id_Kina>
+    <Id_Miasta>10</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Piłsudskiego 16</Ulica>
+    <Telefon>89 5352030</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.7776457,20.4819963</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>331</Id_Kina>
+    <Id_Miasta>87</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Modrzejowska 32</Ulica>
+    <Telefon>32 3631414</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>50.2760121,19.13069</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>332</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>DKF Overground</Nazwa>
+    <Ulica>Niepodległości 162 (gmach SGH)</Ulica>
+    <Telefon>22 5649754</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dkf.waw.pl</WWW>
+    <Lokalizacja>52.2088754,21.0085284</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>333</Id_Kina>
+    <Id_Miasta>59</Id_Miasta>
+    <Nazwa>Patria</Nazwa>
+    <Ulica>Chorzowska 3</Ulica>
+    <Telefon>32 7427792</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinopatria.com</WWW>
+    <Lokalizacja>50.2832571,18.8774139</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>334</Id_Kina>
+    <Id_Miasta>24</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Poniatowskiego 5</Ulica>
+    <Telefon>48 3628050</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.3914396,21.1532186</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>335</Id_Kina>
+    <Id_Miasta>4</Id_Miasta>
+    <Nazwa>Klub Filmowy</Nazwa>
+    <Ulica>Waszyngtona 1</Ulica>
+    <Telefon>58 7822969</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.klubfilmowy.pl</WWW>
+    <Lokalizacja>54.5248941,18.5462758</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>336</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Cinema City Manufaktura</Nazwa>
+    <Ulica>Drewnowska 58</Ulica>
+    <Telefon>42 6646464</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>51.7808431,19.4478647</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>337</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>IMAX</Nazwa>
+    <Ulica>Drewnowska 58</Ulica>
+    <Telefon>42 6646464</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoimax.pl</WWW>
+    <Lokalizacja>51.7808431,19.4478647</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>338</Id_Kina>
+    <Id_Miasta>94</Id_Miasta>
+    <Nazwa>NoveKino</Nazwa>
+    <Ulica>Al. Jana Pawła II 16/18</Ulica>
+    <Telefon>32 3250504</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.novekino.pl</WWW>
+    <Lokalizacja>50.1134935,18.9857474</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>339</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kinematograf</Nazwa>
+    <Ulica>Pl. Zwycięstwa 1</Ulica>
+    <Telefon>42 6740957</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinomuzeum.pl</WWW>
+    <Lokalizacja>51.7593286,19.4742927</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>340</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Kosmos</Nazwa>
+    <Ulica>Sokolska 66</Ulica>
+    <Telefon>32 3511220</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.csf.katowice.pl</WWW>
+    <Lokalizacja>50.268735,19.0200447</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>341</Id_Kina>
+    <Id_Miasta>99</Id_Miasta>
+    <Nazwa>Kino SCK</Nazwa>
+    <Ulica>Piłsudskiego 105</Ulica>
+    <Telefon>91 5771393</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.sck.stargard.pl</WWW>
+    <Lokalizacja>53.3414428,15.0357349</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>343</Id_Kina>
+    <Id_Miasta>26</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Pułaskiego 10/12</Ulica>
+    <Telefon>54 4211110</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.6549225,19.0620225</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>345</Id_Kina>
+    <Id_Miasta>91</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Raciborska 16</Ulica>
+    <Telefon>32 7373737</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.0957795,18.5379845</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>346</Id_Kina>
+    <Id_Miasta>87</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Sienkiewicza 2</Ulica>
+    <Telefon>32 7757575</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.27492,19.12766</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>347</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kino Letnie "Pod Schodami"</Nazwa>
+    <Ulica>Al. Krasinskiego 34</Ulica>
+    <Telefon>12 4337400</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>50.0584454,19.92515</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>348</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Filmowa Cafe</Nazwa>
+    <Ulica>Al. Krasinskiego 34</Ulica>
+    <Telefon>12 4337400</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>50.0584454,19.92515</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>349</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Multikino Stary Browar</Nazwa>
+    <Ulica>Półwiejska 42</Ulica>
+    <Telefon>61 6281610</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.40297,16.92974</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>350</Id_Kina>
+    <Id_Miasta>100</Id_Miasta>
+    <Nazwa>Pegaz</Nazwa>
+    <Ulica>Nadbrzeżna 20</Ulica>
+    <Telefon>94 3514216</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>54.21414,15.74518</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>351</Id_Kina>
+    <Id_Miasta>53</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Lipowa 1</Ulica>
+    <Telefon>32 3357777</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.3001622,18.6846023</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>352</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Multikino Pasaż Grunwaldzki</Nazwa>
+    <Ulica>Pl. Grunwaldzki 22</Ulica>
+    <Telefon>71 7334410</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>51.11208,17.05991</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>353</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Multikino Arkady Wrocławskie</Nazwa>
+    <Ulica>Powstańców Śl. 2-4</Ulica>
+    <Telefon>71 7583210</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>51.09968,17.02879</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>354</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Lipowa 13</Ulica>
+    <Telefon>81 5352525</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>51.24444,22.5525285</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>359</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Multikino Złote Tarasy</Nazwa>
+    <Ulica>Złota 59</Ulica>
+    <Telefon>22 4628110</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.2301323,21.0039711</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>361</Id_Kina>
+    <Id_Miasta>29</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Al. Konstytucji 3-go Maja 102</Ulica>
+    <Telefon>95 7372737</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>52.73068,15.22607</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>362</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Helios Magnolia Park</Nazwa>
+    <Ulica>Legnicka 58</Ulica>
+    <Telefon>71 3555353</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.12062,16.99319</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>364</Id_Kina>
+    <Id_Miasta>91</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Chrobrego 1</Ulica>
+    <Telefon>32 7501910</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.0939021,18.5422952</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>367</Id_Kina>
+    <Id_Miasta>102</Id_Miasta>
+    <Nazwa>Gdynia</Nazwa>
+    <Ulica>Zygmuntowska 1</Ulica>
+    <Telefon>74 8525219</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogdynia.cba.pl</WWW>
+    <Lokalizacja>54.5182627,18.5433402</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>368</Id_Kina>
+    <Id_Miasta>103</Id_Miasta>
+    <Nazwa>Kinoteatr Słonko</Nazwa>
+    <Ulica>Poznańska 4</Ulica>
+    <Telefon>61 2830710</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoteatrslonko.pl</WWW>
+    <Lokalizacja>52.095401,17.022493</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>369</Id_Kina>
+    <Id_Miasta>1</Id_Miasta>
+    <Nazwa>Helios Biała</Nazwa>
+    <Ulica>Czesława Miłosza 2</Ulica>
+    <Telefon>85 7108190</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.1236361,23.1785917</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>371</Id_Kina>
+    <Id_Miasta>105</Id_Miasta>
+    <Nazwa>Pegaz</Nazwa>
+    <Ulica>Kubsza 17</Ulica>
+    <Telefon>32 4554855</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.wck.wodzislaw.pl</WWW>
+    <Lokalizacja>50.0032371,18.4684476</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>372</Id_Kina>
+    <Id_Miasta>106</Id_Miasta>
+    <Nazwa>Dąbrówka</Nazwa>
+    <Ulica>Pl. Jagiełły 1</Ulica>
+    <Telefon>74 8673364</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kcksir.pl</WWW>
+    <Lokalizacja>50.436284,16.6506845</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>373</Id_Kina>
+    <Id_Miasta>107</Id_Miasta>
+    <Nazwa>Sybilla</Nazwa>
+    <Ulica>Partyzantów 6</Ulica>
+    <Telefon>81 8863388</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinosybilla.pl</WWW>
+    <Lokalizacja>51.4178775,21.9710241</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>374</Id_Kina>
+    <Id_Miasta>108</Id_Miasta>
+    <Nazwa>Przedwiośnie</Nazwa>
+    <Ulica>Al. Powstańców Wlkp. 18</Ulica>
+    <Telefon>62 7252436</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.krotoszyn.pl</WWW>
+    <Lokalizacja>51.69545,17.442186</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>375</Id_Kina>
+    <Id_Miasta>109</Id_Miasta>
+    <Nazwa>Gryf</Nazwa>
+    <Ulica>Szczecińska 17</Ulica>
+    <Telefon>91 4162447</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.gdk.com.pl</WWW>
+    <Lokalizacja>53.259295,14.48999</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>376</Id_Kina>
+    <Id_Miasta>110</Id_Miasta>
+    <Nazwa>Kino Studyjne Wrzos</Nazwa>
+    <Ulica>Wojska Polskiego 139</Ulica>
+    <Telefon>52 3312720</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.oksir.com.pl</WWW>
+    <Lokalizacja>53.4091099,18.446103</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>377</Id_Kina>
+    <Id_Miasta>111</Id_Miasta>
+    <Nazwa>Kinomax</Nazwa>
+    <Ulica>Jana Molla 3</Ulica>
+    <Telefon>52 3530555</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinomax.info.pl</WWW>
+    <Lokalizacja>52.7753767,18.2471683</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>378</Id_Kina>
+    <Id_Miasta>2</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Jagiellońska 39-47</Ulica>
+    <Telefon>52 5543737</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>53.1241572,18.0166944</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>379</Id_Kina>
+    <Id_Miasta>16</Id_Miasta>
+    <Nazwa>Kino Centrum</Nazwa>
+    <Ulica>Centrum Sztuki Współczesnej "Znaki Czasu", ul. Wały gen. Sikorskiego 13</Ulica>
+    <Telefon>56 6109718</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>csw.torun.pl/kino-centrum</WWW>
+    <Lokalizacja>53.0131512,18.6057035</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>380</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kino Letnie Wanda</Nazwa>
+    <Ulica>Św. Gertrudy 5</Ulica>
+    <Telefon>694704204</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>50.0585651, 19.9410581</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>381</Id_Kina>
+    <Id_Miasta>112</Id_Miasta>
+    <Nazwa>Kino KDK</Nazwa>
+    <Ulica>Żółkiewskiego 4</Ulica>
+    <Telefon>24 2542137</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kdk.art.pl</WWW>
+    <Lokalizacja>52.2357075,19.3558847</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>382</Id_Kina>
+    <Id_Miasta>113</Id_Miasta>
+    <Nazwa>Wolność</Nazwa>
+    <Ulica>Wyszyńskiego 65</Ulica>
+    <Telefon>94 7128301</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.sapik.pl</WWW>
+    <Lokalizacja>53.704583,16.698416</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>383</Id_Kina>
+    <Id_Miasta>114</Id_Miasta>
+    <Nazwa>Klaps</Nazwa>
+    <Ulica>B. Czecha 4</Ulica>
+    <Telefon>18 3371603</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ldk.limanowa.pl</WWW>
+    <Lokalizacja>49.707469,20.417487</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>384</Id_Kina>
+    <Id_Miasta>115</Id_Miasta>
+    <Nazwa>Etiuda</Nazwa>
+    <Ulica>Al. 3 Maja 6</Ulica>
+    <Telefon>41 2653747</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.etiuda.o-c.pl</WWW>
+    <Lokalizacja>50.936525,21.3869558</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>385</Id_Kina>
+    <Id_Miasta>116</Id_Miasta>
+    <Nazwa>Kino PCA</Nazwa>
+    <Ulica>Dąbrowskiego 1</Ulica>
+    <Telefon>76 8451677</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.pca.pl</WWW>
+    <Lokalizacja>51.503161,16.071833</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>386</Id_Kina>
+    <Id_Miasta>117</Id_Miasta>
+    <Nazwa>Kino Studyjne Kadr</Nazwa>
+    <Ulica>Wojska Polskiego 52</Ulica>
+    <Telefon>32 7338801</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.palac.art.pl/kino</WWW>
+    <Lokalizacja>50.321168,19.2031213</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>387</Id_Kina>
+    <Id_Miasta>118</Id_Miasta>
+    <Nazwa>Mazowsze</Nazwa>
+    <Ulica>Chopina 101</Ulica>
+    <Telefon>46 8632777</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.terazkino.idsl.pl</WWW>
+    <Lokalizacja>52.2293372,20.238359</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>388</Id_Kina>
+    <Id_Miasta>1</Id_Miasta>
+    <Nazwa>Helios Alfa</Nazwa>
+    <Ulica>Świętojańska 15</Ulica>
+    <Telefon>85 7411356</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.1268639,23.1708355</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>389</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Alchemia</Nazwa>
+    <Ulica>Jezuicka 4</Ulica>
+    <Telefon>22 3965086</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowawarszawa.org</WWW>
+    <Lokalizacja>52.2494931,21.0134869</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>390</Id_Kina>
+    <Id_Miasta>20</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Wrocławska 17</Ulica>
+    <Telefon>68 4107777</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>51.9364684,15.5115455</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>391</Id_Kina>
+    <Id_Miasta>119</Id_Miasta>
+    <Nazwa>Kino Centrum Kultury</Nazwa>
+    <Ulica>Spółdzielcza 9</Ulica>
+    <Telefon>22 7347944</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.centrumkultury.eu</WWW>
+    <Lokalizacja>52.1053784,20.623945</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>392</Id_Kina>
+    <Id_Miasta>117</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Jana III Sobieskiego 6</Ulica>
+    <Telefon>32 2623218</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>50.3250193,19.1751338</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>393</Id_Kina>
+    <Id_Miasta>39</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Ignacego Paderewskiego 1</Ulica>
+    <Telefon>94 7328310</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.1755514,16.2045075</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>394</Id_Kina>
+    <Id_Miasta>38</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Al. Powstańców Wielkopolskich 99</Ulica>
+    <Telefon>67 3491416</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.1600627,16.7543392</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>395</Id_Kina>
+    <Id_Miasta>31</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Wyszogrodzka 144</Ulica>
+    <Telefon>24 3633445</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>52.5359693,19.7551783</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>396</Id_Kina>
+    <Id_Miasta>120</Id_Miasta>
+    <Nazwa>Warszawa</Nazwa>
+    <Ulica>18 stycznia 2</Ulica>
+    <Telefon>24 2352295</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogostynin.ecom.net.pl</WWW>
+    <Lokalizacja>52.4230315,19.4646701</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>397</Id_Kina>
+    <Id_Miasta>30</Id_Miasta>
+    <Nazwa>Kino TDK</Nazwa>
+    <Ulica>Słowackiego 2</Ulica>
+    <Telefon>15 8222110</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.tdk.tarnobrzeg.pl</WWW>
+    <Lokalizacja>50.57142,21.66815</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>398</Id_Kina>
+    <Id_Miasta>6</Id_Miasta>
+    <Nazwa>Kino Fenomen</Nazwa>
+    <Ulica>Ściegiennego 2</Ulica>
+    <Telefon>41 3655148</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.wdk-kielce.pl</WWW>
+    <Lokalizacja>50.8614776,20.6268503</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>399</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>DKF Rotunda</Nazwa>
+    <Ulica>Oleandry 1</Ulica>
+    <Telefon>12 6333538</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.rotunda.pl</WWW>
+    <Lokalizacja>50.0599139,19.9209691</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>400</Id_Kina>
+    <Id_Miasta>121</Id_Miasta>
+    <Nazwa>Pieniny</Nazwa>
+    <Ulica>Główna 6</Ulica>
+    <Telefon>18 2620205</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mokis.szczawnica.pl</WWW>
+    <Lokalizacja>49.4259456,20.4817545</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>408</Id_Kina>
+    <Id_Miasta>43</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Najświętszej Marii Panny 9</Ulica>
+    <Telefon>76 8620200</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.2095405,16.16419</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>409</Id_Kina>
+    <Id_Miasta>67</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Generała Władysława Sikorskiego 20</Ulica>
+    <Telefon>76 7249797</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>51.3940017,16.202342</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>410</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Połczyńska 4 Fort Wola</Ulica>
+    <Telefon>22 4986677</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>52.2238123,20.9262306</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>412</Id_Kina>
+    <Id_Miasta>35</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Leszczyńska 20</Ulica>
+    <Telefon>33 4853939</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>49.8073292,19.0479058</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>413</Id_Kina>
+    <Id_Miasta>14</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Monte Cassino 63</Ulica>
+    <Telefon>58 7659410</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.4446747,18.5675994</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>414</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Klub Delta</Nazwa>
+    <Ulica>Racławicka 10</Ulica>
+    <Telefon>91 4647923</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.klubdelta.pl</WWW>
+    <Lokalizacja>53.39420,14.67098</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>256</Id_Kina>
+    <Id_Miasta>62</Id_Miasta>
+    <Nazwa>Iskra</Nazwa>
+    <Ulica>3 Maja 37</Ulica>
+    <Telefon>87 6410136</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-iskra.pl</WWW>
+    <Lokalizacja>53.842139,22.985842</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>415</Id_Kina>
+    <Id_Miasta>45</Id_Miasta>
+    <Nazwa>Novekino</Nazwa>
+    <Ulica>Wiszniewskiego 4</Ulica>
+    <Telefon>25 6407766</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.novekino.pl</WWW>
+    <Lokalizacja>52.170408,22.2888797</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>416</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Etnokino</Nazwa>
+    <Ulica>Kredytowa 1</Ulica>
+    <Telefon>609 525 756</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowawarszawa.org</WWW>
+    <Lokalizacja>52.2381655,21.0121077</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>417</Id_Kina>
+    <Id_Miasta>122</Id_Miasta>
+    <Nazwa>Tomi</Nazwa>
+    <Ulica>Gdańska 4</Ulica>
+    <Telefon>42 2154269</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinotomi.neostrada.pl</WWW>
+    <Lokalizacja>51.6646617,19.361052</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>418</Id_Kina>
+    <Id_Miasta>123</Id_Miasta>
+    <Nazwa>Wisła</Nazwa>
+    <Ulica>Konstytucji 3-go Maja 16</Ulica>
+    <Telefon>91 4182840</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.goleniow.net.pl</WWW>
+    <Lokalizacja>53.5618459,14.832512</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>422</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Agrafka</Nazwa>
+    <Ulica>Krowoderska 8</Ulica>
+    <Telefon>12 4300179</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoagrafka.pl</WWW>
+    <Lokalizacja>50.0674018,19.9376921</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>423</Id_Kina>
+    <Id_Miasta>51</Id_Miasta>
+    <Nazwa>Cinema City Galeria Jurajska</Nazwa>
+    <Ulica>Al. Wojska Polskiego 207</Ulica>
+    <Telefon>34 3901777</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.807603,19.13133</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>424</Id_Kina>
+    <Id_Miasta>125</Id_Miasta>
+    <Nazwa>Odra</Nazwa>
+    <Ulica>Wojska Polskiego 37</Ulica>
+    <Telefon>68 3875232</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-odra.pl</WWW>
+    <Lokalizacja>51.801303,15.709373</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>425</Id_Kina>
+    <Id_Miasta>29</Id_Miasta>
+    <Nazwa>60 krzeseł</Nazwa>
+    <Ulica>Pomorska 73</Ulica>
+    <Telefon>95 7332556</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mosart.pl</WWW>
+    <Lokalizacja>52.741289,15.2558535</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>426</Id_Kina>
+    <Id_Miasta>126</Id_Miasta>
+    <Nazwa>Pionier</Nazwa>
+    <Ulica>Podchorążych 30</Ulica>
+    <Telefon>68 3740103</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinopionier.republika.pl</WWW>
+    <Lokalizacja>51.6391479,15.1361067</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>427</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Cinema City Bonarka</Nazwa>
+    <Ulica>Kamieńskiego 11</Ulica>
+    <Telefon>12 2999999</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.0268833,19.9691239</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>429</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Multikino Malta</Nazwa>
+    <Ulica>Abp A. Baraniaka 8</Ulica>
+    <Telefon>61 6281710</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>52.40220,16.95908</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>432</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Ada Kino Studyjne</Nazwa>
+    <Ulica>Ks. Chrościckiego 14</Ulica>
+    <Telefon>22 8637981</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.dkwlochy.pl</WWW>
+    <Lokalizacja>52.2074439,20.9079876</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>433</Id_Kina>
+    <Id_Miasta>32</Id_Miasta>
+    <Nazwa>Cinema Lumiere</Nazwa>
+    <Ulica>Dwernickiego 15</Ulica>
+    <Telefon>87 6182023</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-lumiere.pl</WWW>
+    <Lokalizacja>54.1066265,22.9312231</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>434</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Kino Obserwatorium</Nazwa>
+    <Ulica>Al. Wojska Polskiego 90</Ulica>
+    <Telefon>91 4236901</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.officyna.art.pl</WWW>
+    <Lokalizacja>53.43798,14.53556</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>435</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kinokawiarnia Stacja Falenica</Nazwa>
+    <Ulica>Patriotów 44a</Ulica>
+    <Telefon>530 882 809</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.stacjafalenica.pl</WWW>
+    <Lokalizacja>52.1627087,21.2105548</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>436</Id_Kina>
+    <Id_Miasta>127</Id_Miasta>
+    <Nazwa>Piast</Nazwa>
+    <Ulica>Węgierska 3</Ulica>
+    <Telefon>12 2763464</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.ckis.pl</WWW>
+    <Lokalizacja>49.9771416,19.8264589</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>437</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>DKF Magazyn Kultury</Nazwa>
+    <Ulica>Józefa 17</Ulica>
+    <Telefon>602 729 519</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.magazynkultury.pl</WWW>
+    <Lokalizacja>50.0509643,19.9464682</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>438</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Legnicka 58, Magnolia Park</Ulica>
+    <Telefon>71 3385284</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>51.12062,16.99319</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>439</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>Kino Eastpictures</Nazwa>
+    <Ulica>Obrońców Wybrzeża 1</Ulica>
+    <Telefon>58 7780000</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>eastpictures.pl</WWW>
+    <Lokalizacja>54.4094697,18.5921175</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>440</Id_Kina>
+    <Id_Miasta>36</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>1 Maja 64</Ulica>
+    <Telefon>74 6323232</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.7654831,16.2628758</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>441</Id_Kina>
+    <Id_Miasta>31</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Wyszogrodzka 127</Ulica>
+    <Telefon>24 3678686</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>52.5369473,19.7505842</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>442</Id_Kina>
+    <Id_Miasta>128</Id_Miasta>
+    <Nazwa>Cinema City</Nazwa>
+    <Ulica>Pl. Tadeusza Kościuszki 1</Ulica>
+    <Telefon>32 2868686</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>50.39639977480615,18.82155418395996</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>443</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino Cztery Pokoje</Nazwa>
+    <Ulica>Wileńska 19</Ulica>
+    <Telefon>722 004 047</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.4rooms.pl</WWW>
+    <Lokalizacja>52.2569848,21.0375767</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>162</Id_Kina>
+    <Id_Miasta>1</Id_Miasta>
+    <Nazwa>Ton</Nazwa>
+    <Ulica>Rynek Kościuszki 2</Ulica>
+    <Telefon>85 7435382</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ton.com.pl</WWW>
+    <Lokalizacja>53.1326077,23.1622919</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>445</Id_Kina>
+    <Id_Miasta>35</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Warszawska 180</Ulica>
+    <Telefon>33 8150259</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>49.8456396,19.0369337</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>446</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Klubokawiarnia Grawitacja</Nazwa>
+    <Ulica>Browarna 6</Ulica>
+    <Telefon>22 8260737</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.klubgrawitacja.com</WWW>
+    <Lokalizacja>52.2407492,21.0226956</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>447</Id_Kina>
+    <Id_Miasta>106</Id_Miasta>
+    <Nazwa>Cinema 3D</Nazwa>
+    <Ulica>Noworudzka 2</Ulica>
+    <Telefon>74 6604472</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinema3d.pl</WWW>
+    <Lokalizacja>50.4512604,16.6378124</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>448</Id_Kina>
+    <Id_Miasta>129</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Sobieskiego 14A</Ulica>
+    <Telefon>58 7313810</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.5611788,18.3998847</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>451</Id_Kina>
+    <Id_Miasta>24</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Bolesława Chrobrego 1</Ulica>
+    <Telefon>48 6700510</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>51.4122344,21.1563325</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>453</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Kino ACF</Nazwa>
+    <Ulica>Św. Wincentego 25/5</Ulica>
+    <Telefon>71 7913350</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.acf.pl</WWW>
+    <Lokalizacja>51.1226293,17.0341846</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>454</Id_Kina>
+    <Id_Miasta>14</Id_Miasta>
+    <Nazwa>Orange Kino Letnie</Nazwa>
+    <Ulica>Molo - Sopot</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.orangekinoletnie.wp.pl</WWW>
+    <Lokalizacja>54.441581,18.5600956</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>455</Id_Kina>
+    <Id_Miasta>58</Id_Miasta>
+    <Nazwa>Orange Kino Letnie</Nazwa>
+    <Ulica>Krupówki - Zakopane</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.orangekinoletnie.wp.pl</WWW>
+    <Lokalizacja>49.2937646,19.9539675</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>456</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino KC</Nazwa>
+    <Ulica>Nowy Świat 6/12</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinokc.pl</WWW>
+    <Lokalizacja>52.231359,21.0221599</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>457</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino Letnie w Parku Odkrywców</Nazwa>
+    <Ulica>Wybrzeże Kościuszkowskie 20, Centrum Nauki Kopernik</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kopernik.org.pl/wystawy/park-odkrywcow/</WWW>
+    <Lokalizacja>52.2422022,21.0285187</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>458</Id_Kina>
+    <Id_Miasta>133</Id_Miasta>
+    <Nazwa>Kino Sokół</Nazwa>
+    <Ulica>Armii Krajowej 3</Ulica>
+    <Telefon>13 4341938 w. 29</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.bdk.net.pl</WWW>
+    <Lokalizacja>49.693948,22.018265</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>459</Id_Kina>
+    <Id_Miasta>139</Id_Miasta>
+    <Nazwa>Kino Baśń</Nazwa>
+    <Ulica>Warszawska 24</Ulica>
+    <Telefon>22 7535406</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mokpiastow.pl</WWW>
+    <Lokalizacja>52.1865681,20.8436209</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>460</Id_Kina>
+    <Id_Miasta>134</Id_Miasta>
+    <Nazwa>Kino Sztuka</Nazwa>
+    <Ulica>Broniewskiego 4</Ulica>
+    <Telefon>32 6233086 w. 6</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.moksir.chrzanow.pl</WWW>
+    <Lokalizacja>50.1447646,19.4082841</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>461</Id_Kina>
+    <Id_Miasta>137</Id_Miasta>
+    <Nazwa>Nasze Kino</Nazwa>
+    <Ulica>Śniadeckiego 24</Ulica>
+    <Telefon>33 8425782</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ock.org.pl</WWW>
+    <Lokalizacja>50.0351121,19.2397908</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>462</Id_Kina>
+    <Id_Miasta>131</Id_Miasta>
+    <Nazwa>Kino Planeta</Nazwa>
+    <Ulica>Pomianowska 2B</Ulica>
+    <Telefon>14 6858804</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>kino.planetabrzesko.com.pl</WWW>
+    <Lokalizacja>49.9638242,20.5966213</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>463</Id_Kina>
+    <Id_Miasta>141</Id_Miasta>
+    <Nazwa>Kino Muza</Nazwa>
+    <Ulica>Wiśniowa 19</Ulica>
+    <Telefon>664 137 017</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.dkwloszczowa.pl</WWW>
+    <Lokalizacja>50.849712,19.9759741</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>464</Id_Kina>
+    <Id_Miasta>46</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Wiśniowieckiego 116</Ulica>
+    <Telefon>18 4143990</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>49.6028635,20.7196727</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>465</Id_Kina>
+    <Id_Miasta>130</Id_Miasta>
+    <Nazwa>Kino Echo</Nazwa>
+    <Ulica>Gołębia 1</Ulica>
+    <Telefon>62 7471119</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.jarocin.pl</WWW>
+    <Lokalizacja>51.973041,17.500703</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>466</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Aleja Bohaterów Warszawy 42/43</Ulica>
+    <Telefon>91 4849999</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>53.42729,14.53097</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>467</Id_Kina>
+    <Id_Miasta>138</Id_Miasta>
+    <Nazwa>Kino Starówka</Nazwa>
+    <Ulica>Rynek 25/26</Ulica>
+    <Telefon>15 8352964</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.esceka.pl</WWW>
+    <Lokalizacja>50.6789532,21.7500694</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>468</Id_Kina>
+    <Id_Miasta>143</Id_Miasta>
+    <Nazwa>Kino Zbyszek</Nazwa>
+    <Ulica>Fr. Nullo 29</Ulica>
+    <Telefon>32 6431120</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.olkusz.pl</WWW>
+    <Lokalizacja>50.2813157,19.5656869</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>469</Id_Kina>
+    <Id_Miasta>135</Id_Miasta>
+    <Nazwa>Kino Sokół</Nazwa>
+    <Ulica>Kościuszki 11</Ulica>
+    <Telefon>14 6559214</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinosokol.pl</WWW>
+    <Lokalizacja>50.1704916,20.9759074</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>470</Id_Kina>
+    <Id_Miasta>142</Id_Miasta>
+    <Nazwa>Kino BCK</Nazwa>
+    <Ulica>Włosiankarska 5 (siedziba tymczasowa)</Ulica>
+    <Telefon>84 6862992</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.bck.lbl.pl</WWW>
+    <Lokalizacja>50.532484,22.709097</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>471</Id_Kina>
+    <Id_Miasta>132</Id_Miasta>
+    <Nazwa>Kino Wisła</Nazwa>
+    <Ulica>Narutowicza 1</Ulica>
+    <Telefon />
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>ok.brzeszcze.pl</WWW>
+    <Lokalizacja>49.9703479,19.133234</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>472</Id_Kina>
+    <Id_Miasta>136</Id_Miasta>
+    <Nazwa>Kino Muza</Nazwa>
+    <Ulica>Piłsudskiego 20</Ulica>
+    <Telefon>12 2721511</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mokis.myslenice.pl</WWW>
+    <Lokalizacja>49.829734,19.942672</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>473</Id_Kina>
+    <Id_Miasta>140</Id_Miasta>
+    <Nazwa>Kino Olbrzym</Nazwa>
+    <Ulica>Sobieskiego 7</Ulica>
+    <Telefon>32 2852734 w.19</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.tck.net.pl</WWW>
+    <Lokalizacja>50.4456722,18.8576919</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>474</Id_Kina>
+    <Id_Miasta>144</Id_Miasta>
+    <Nazwa>Kino MOK</Nazwa>
+    <Ulica>Strzelecka 2a</Ulica>
+    <Telefon>74 8724484</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.nowaruda.pl</WWW>
+    <Lokalizacja>50.5767245,16.5037129</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>475</Id_Kina>
+    <Id_Miasta>145</Id_Miasta>
+    <Nazwa>Kino Scena Kultura</Nazwa>
+    <Ulica>Niepodległości 26</Ulica>
+    <Telefon>32 3326381</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinoscenakultura.pl</WWW>
+    <Lokalizacja>50.2197996,18.6645381</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>476</Id_Kina>
+    <Id_Miasta>146</Id_Miasta>
+    <Nazwa>Kino Sokół</Nazwa>
+    <Ulica>Kościuszki 74</Ulica>
+    <Telefon>32 6110621</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.tck.trzebinia.pl</WWW>
+    <Lokalizacja>50.1573213,19.4598035</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>477</Id_Kina>
+    <Id_Miasta>147</Id_Miasta>
+    <Nazwa>Kino Niwa</Nazwa>
+    <Ulica>Kościuszki 12</Ulica>
+    <Telefon>23 6912343</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>noknasielsk.pl</WWW>
+    <Lokalizacja>52.5904843,20.8033935</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>478</Id_Kina>
+    <Id_Miasta>148</Id_Miasta>
+    <Nazwa>Kino Śnieżka</Nazwa>
+    <Ulica>E. Bojanowskiego 18</Ulica>
+    <Telefon>14 6760848</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dksniezka.mokdebica.pl</WWW>
+    <Lokalizacja>50.0503715,21.4192967</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>479</Id_Kina>
+    <Id_Miasta>149</Id_Miasta>
+    <Nazwa>Kino MOKiS</Nazwa>
+    <Ulica>Piastowska 19a</Ulica>
+    <Telefon>74 8335333</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mokisbielawa.pl</WWW>
+    <Lokalizacja>50.68154,16.60784</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>480</Id_Kina>
+    <Id_Miasta>150</Id_Miasta>
+    <Nazwa>Kino Piast</Nazwa>
+    <Ulica>Ratuszowa 1</Ulica>
+    <Telefon>33 8520426</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.cieszyn.pl</WWW>
+    <Lokalizacja>49.7479592,18.6327865</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>481</Id_Kina>
+    <Id_Miasta>151</Id_Miasta>
+    <Nazwa>Kino Baszta</Nazwa>
+    <Ulica>Dąbrowskiego 19</Ulica>
+    <Telefon>61 2853635</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.oksroda.pl</WWW>
+    <Lokalizacja>52.228074,17.278282</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>482</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Kino Medyk</Nazwa>
+    <Ulica>Jaczewskiego 8</Ulica>
+    <Telefon>81 7406338</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>51.2588639,22.5647771</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>483</Id_Kina>
+    <Id_Miasta>152</Id_Miasta>
+    <Nazwa>Kino Beskid</Nazwa>
+    <Ulica>Krakowska 132</Ulica>
+    <Telefon>664 689 184</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kultura.andrychow.eu</WWW>
+    <Lokalizacja>49.854992,19.3387542</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>484</Id_Kina>
+    <Id_Miasta>153</Id_Miasta>
+    <Nazwa>Kino Pod Kopułą</Nazwa>
+    <Ulica>Hutnika 4</Ulica>
+    <Telefon>65 5720027</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>wwww.gok.gostyn.pl</WWW>
+    <Lokalizacja>51.881135,16.999898</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>485</Id_Kina>
+    <Id_Miasta>13</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Kopisto 1</Ulica>
+    <Telefon>17 7842610</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.02752,22.01392</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>487</Id_Kina>
+    <Id_Miasta>154</Id_Miasta>
+    <Nazwa>Centrum Kultury</Nazwa>
+    <Ulica>Jana Pawła II 1B</Ulica>
+    <Telefon>22 7526330</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.centrumkultury.com.pl</WWW>
+    <Lokalizacja>52.1930083,20.6153687</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>488</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Klub Kultury Saska Kępa</Nazwa>
+    <Ulica>Brukselska 23</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>52.2250793,21.0607615</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>489</Id_Kina>
+    <Id_Miasta>16</Id_Miasta>
+    <Nazwa>Cinema City Plaza</Nazwa>
+    <Ulica>Broniewskiego 90</Ulica>
+    <Telefon>56 4704747</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema-city.pl</WWW>
+    <Lokalizacja>53.0137277,18.5648471</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>491</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Ars Gabinet</Nazwa>
+    <Ulica>św. Tomasza 11</Ulica>
+    <Telefon>12 4214199</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ars.pl</WWW>
+    <Lokalizacja>50.0630519,19.9384451</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>492</Id_Kina>
+    <Id_Miasta>155</Id_Miasta>
+    <Nazwa>Kino Fenix</Nazwa>
+    <Ulica>Podrzeczna 20</Ulica>
+    <Telefon>46 8374001</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>lok.art.pl</WWW>
+    <Lokalizacja>52.10812,19.93925</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>493</Id_Kina>
+    <Id_Miasta>156</Id_Miasta>
+    <Nazwa>Kino MDK</Nazwa>
+    <Ulica>Kościuszki 55</Ulica>
+    <Telefon>67 2620545</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mdkwagrowiec.pl</WWW>
+    <Lokalizacja>52.81856,17.20337</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>494</Id_Kina>
+    <Id_Miasta>157</Id_Miasta>
+    <Nazwa>Kino ChDK</Nazwa>
+    <Ulica>Swarożyca 1</Ulica>
+    <Telefon>52 3972215</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.chdk.chojnice.pl</WWW>
+    <Lokalizacja>53.69414,17.56706</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>495</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>OFF.Kijów Klub</Nazwa>
+    <Ulica>Al.Krasińskiego 34</Ulica>
+    <Telefon>12 4330033</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kijow.pl</WWW>
+    <Lokalizacja>50.0584454,19.92515</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>496</Id_Kina>
+    <Id_Miasta>158</Id_Miasta>
+    <Nazwa>Kino Tur</Nazwa>
+    <Ulica>Stefana Żeromskiego 1</Ulica>
+    <Telefon>63 2784743</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mdk.turek.net.pl</WWW>
+    <Lokalizacja>52.01724,18.49914</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>497</Id_Kina>
+    <Id_Miasta>159</Id_Miasta>
+    <Nazwa>Kino Halszka</Nazwa>
+    <Ulica>Dworcowa 7</Ulica>
+    <Telefon>61 2920031</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>kino.szok.info.pl</WWW>
+    <Lokalizacja>52.61002,16.57991</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>498</Id_Kina>
+    <Id_Miasta>160</Id_Miasta>
+    <Nazwa>Kino MOK Centrum</Nazwa>
+    <Ulica>Piastowska 1</Ulica>
+    <Telefon>32 6721339</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok.pl</WWW>
+    <Lokalizacja>50.48551,19.43177</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>499</Id_Kina>
+    <Id_Miasta>161</Id_Miasta>
+    <Nazwa>Kino nad Wartą</Nazwa>
+    <Ulica>Słowackiego 5</Ulica>
+    <Telefon>63 2722847</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mdk-kolo.pl</WWW>
+    <Lokalizacja>52.19659,18.64015</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>500</Id_Kina>
+    <Id_Miasta>10</Id_Miasta>
+    <Nazwa>Kino Awangarda 2</Nazwa>
+    <Ulica>Jana Pawła II 2/3</Ulica>
+    <Telefon>89 5237538</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.awangarda.olsztyn.pl</WWW>
+    <Lokalizacja>53.77819,20.47945</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>501</Id_Kina>
+    <Id_Miasta>137</Id_Miasta>
+    <Nazwa>Planet Cinema</Nazwa>
+    <Ulica>Powstańców Śląskich 1</Ulica>
+    <Telefon>33 4711712</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.planet-cinema.pl</WWW>
+    <Lokalizacja>50.04360,19.20479</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>502</Id_Kina>
+    <Id_Miasta>162</Id_Miasta>
+    <Nazwa>Kino Zbyszek</Nazwa>
+    <Ulica>Świdnicka 23</Ulica>
+    <Telefon>74 6464658</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dok.pl</WWW>
+    <Lokalizacja>50.72948,16.64762</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>503</Id_Kina>
+    <Id_Miasta>163</Id_Miasta>
+    <Nazwa>Kino Kultura</Nazwa>
+    <Ulica>Krótka 2</Ulica>
+    <Telefon>603644447</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>oblukaj.com/kino</WWW>
+    <Lokalizacja>54.30899,22.30069</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>504</Id_Kina>
+    <Id_Miasta>164</Id_Miasta>
+    <Nazwa>Dom Kultury</Nazwa>
+    <Ulica>Wojska Polskiego 20</Ulica>
+    <Telefon>86 2722991</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mdk.grajewo.pl</WWW>
+    <Lokalizacja>53.64598,22.45510</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>505</Id_Kina>
+    <Id_Miasta>165</Id_Miasta>
+    <Nazwa>Kino Mazur</Nazwa>
+    <Ulica>Plac Wolności 22</Ulica>
+    <Telefon>87 5202516</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>przystanek.pl</WWW>
+    <Lokalizacja>54.03875,22.50659</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>506</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kino Kika</Nazwa>
+    <Ulica>Ignacego Krasickiego 18</Ulica>
+    <Telefon>12 2964152</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinokika.pl</WWW>
+    <Lokalizacja>50.04182,19.94063</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>507</Id_Kina>
+    <Id_Miasta>166</Id_Miasta>
+    <Nazwa>Łosicki Dom Kultury</Nazwa>
+    <Ulica>Piłsudskiego 4</Ulica>
+    <Telefon>83 3590509</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>52.21200,22.71500</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>508</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Bułgarska 19</Nazwa>
+    <Ulica>Bułgarska 19</Ulica>
+    <Telefon>602 490 254</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinobulgarska19.pl</WWW>
+    <Lokalizacja>52.39917,16.86215</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>509</Id_Kina>
+    <Id_Miasta>167</Id_Miasta>
+    <Nazwa>Kino Panorama</Nazwa>
+    <Ulica>Podwale 9</Ulica>
+    <Telefon>95 7462135</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.bok.barlinek.pl</WWW>
+    <Lokalizacja>52.99300,15.21300</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>510</Id_Kina>
+    <Id_Miasta>128</Id_Miasta>
+    <Nazwa>BCKino</Nazwa>
+    <Ulica>Stefana Żeromskiego 27</Ulica>
+    <Telefon>32 3893109/10 wew.101</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.becek.pl</WWW>
+    <Lokalizacja>50.35242,18.92828</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>511</Id_Kina>
+    <Id_Miasta>168</Id_Miasta>
+    <Nazwa>Kino Iluzja</Nazwa>
+    <Ulica>Plac Kilińskiego 3</Ulica>
+    <Telefon>33 8461296</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.moksir.chelmek.pl</WWW>
+    <Lokalizacja>50.10073,19.25422</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>512</Id_Kina>
+    <Id_Miasta>169</Id_Miasta>
+    <Nazwa>Kino Kadr 3D</Nazwa>
+    <Ulica>II Armii Wojska Polskiego 1</Ulica>
+    <Telefon>75 7732522</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.bok.art.pl</WWW>
+    <Lokalizacja>50.90370,14.96023</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>513</Id_Kina>
+    <Id_Miasta>170</Id_Miasta>
+    <Nazwa>Kino Lotos</Nazwa>
+    <Ulica>1000-lecia Państwa Polskiego 4</Ulica>
+    <Telefon>85 7121109</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mgok-db.za.pl</WWW>
+    <Lokalizacja>53.65284,23.35001</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>514</Id_Kina>
+    <Id_Miasta>171</Id_Miasta>
+    <Nazwa>Kino Centrum Kultury</Nazwa>
+    <Ulica>Prymasa Stefana Wyszyńskiego 2A</Ulica>
+    <Telefon>86 4754488</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.mokzambrow.pl</WWW>
+    <Lokalizacja>52.98654,22.24769</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>515</Id_Kina>
+    <Id_Miasta>18</Id_Miasta>
+    <Nazwa>Dyskusyjny Klub Filmowy Politechnika</Nazwa>
+    <Ulica>Wyb. Wyspiańskiego 27, bud. A-1, sala 329</Ulica>
+    <Telefon>600 347 022</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.dkf.pwr.wroc.pl</WWW>
+    <Lokalizacja>51.10732,17.06168</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>516</Id_Kina>
+    <Id_Miasta>63</Id_Miasta>
+    <Nazwa>Helios Alfa</Nazwa>
+    <Ulica>Chełmińska 4</Ulica>
+    <Telefon>56 6431212</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>53.483973,18.748286</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>517</Id_Kina>
+    <Id_Miasta>102</Id_Miasta>
+    <Nazwa>Cinema 3D</Nazwa>
+    <Ulica>Westerplatte 29</Ulica>
+    <Telefon>74 6399056</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema3d.pl</WWW>
+    <Lokalizacja>50.839867,16.496695</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>518</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Kino 18//Pauza</Nazwa>
+    <Ulica>Floriańska 18/5, II piętro</Ulica>
+    <Telefon>606 888 380</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino18.pl</WWW>
+    <Lokalizacja>50.06314,19.93986</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>519</Id_Kina>
+    <Id_Miasta>92</Id_Miasta>
+    <Nazwa>Kino ECK</Nazwa>
+    <Ulica>Wojska Polskiego 47</Ulica>
+    <Telefon>87 6215245</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.eck.elk.pl</WWW>
+    <Lokalizacja>53.820688,22.346374</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>520</Id_Kina>
+    <Id_Miasta>34</Id_Miasta>
+    <Nazwa>CKF Zorza</Nazwa>
+    <Ulica>Strażacka 2</Ulica>
+    <Telefon>82 5696506</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.chdk.chelm.pl</WWW>
+    <Lokalizacja>51.132087,23.489622</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>522</Id_Kina>
+    <Id_Miasta>172</Id_Miasta>
+    <Nazwa>Kino Tatry</Nazwa>
+    <Ulica>Jana Kazimierza 17</Ulica>
+    <Telefon>18 2662624</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino.nowytarg.pl</WWW>
+    <Lokalizacja>49.481349,20.033376</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>523</Id_Kina>
+    <Id_Miasta>173</Id_Miasta>
+    <Nazwa>Kino Albatros</Nazwa>
+    <Ulica>Wojska Polskiego 12</Ulica>
+    <Telefon>59 8222544</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.bck-bytow.pl</WWW>
+    <Lokalizacja>54.16825,17.48692</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>524</Id_Kina>
+    <Id_Miasta>174</Id_Miasta>
+    <Nazwa>Kino Centrum</Nazwa>
+    <Ulica>Mleczna 5</Ulica>
+    <Telefon>77 4169986</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.bck-brzeg.pl</WWW>
+    <Lokalizacja>50.86084,17.470078</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>525</Id_Kina>
+    <Id_Miasta>175</Id_Miasta>
+    <Nazwa>Kino Odra</Nazwa>
+    <Ulica>Kolejowa 29</Ulica>
+    <Telefon>71 3195252</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.dok.brzegdolny.pl</WWW>
+    <Lokalizacja>51.26114,16.72422</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>526</Id_Kina>
+    <Id_Miasta>176</Id_Miasta>
+    <Nazwa>Kino Promień</Nazwa>
+    <Ulica>Adama Olbrachta Przyjmy-Przyjemskiego 35 (gmach Gimnazjum w Sierakowie)</Ulica>
+    <Telefon>65 5452098</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinopromien.rawicz.pl</WWW>
+    <Lokalizacja>51.617210,16.858810</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>527</Id_Kina>
+    <Id_Miasta>177</Id_Miasta>
+    <Nazwa>Cinema N 3D</Nazwa>
+    <Ulica>Aleja Józefa Lompy 3</Ulica>
+    <Telefon>77 4333952</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.nysa.pl</WWW>
+    <Lokalizacja>50.47245,17.33850</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>528</Id_Kina>
+    <Id_Miasta>178</Id_Miasta>
+    <Nazwa>Kino Sława</Nazwa>
+    <Ulica>Warszawska 37</Ulica>
+    <Telefon>83 3717807</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kultura.miedzyrzec.pl</WWW>
+    <Lokalizacja>51.98700,22.78100</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>529</Id_Kina>
+    <Id_Miasta>179</Id_Miasta>
+    <Nazwa>Kino Sokół</Nazwa>
+    <Ulica>Plac Kościuszki 24</Ulica>
+    <Telefon>85 7112540</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.sok.org.pl</WWW>
+    <Lokalizacja>53.40592,23.49531</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>530</Id_Kina>
+    <Id_Miasta>180</Id_Miasta>
+    <Nazwa>Kino Wrzos</Nazwa>
+    <Ulica>Marii Konopnickiej 4</Ulica>
+    <Telefon>86 2782221</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>kokis.kolno.home.pl/kokis</WWW>
+    <Lokalizacja>53.41020,21.93158</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>531</Id_Kina>
+    <Id_Miasta>55</Id_Miasta>
+    <Nazwa>Kino Twierdza</Nazwa>
+    <Ulica>Skarbowa 10</Ulica>
+    <Telefon>77 4823469</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mok.com.pl</WWW>
+    <Lokalizacja>50.33052,18.14543</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>521</Id_Kina>
+    <Id_Miasta>124</Id_Miasta>
+    <Nazwa>Kino Eva</Nazwa>
+    <Ulica>Bohaterów Warszawy 19</Ulica>
+    <Telefon>91 3282570</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-eva.com.pl</WWW>
+    <Lokalizacja>53.93145,14.44808</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>532</Id_Kina>
+    <Id_Miasta>181</Id_Miasta>
+    <Nazwa>Kino Wawrzyn</Nazwa>
+    <Ulica>Ks. Piotra Wawrzyniaka 1</Ulica>
+    <Telefon>52 3152480</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mogilno.in/kino</WWW>
+    <Lokalizacja>52.65303,17.95308</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>533</Id_Kina>
+    <Id_Miasta>6</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Warszawska 26</Ulica>
+    <Telefon>41 3121210</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.87530,20.63454</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>534</Id_Kina>
+    <Id_Miasta>41</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Szczecińska 58</Ulica>
+    <Telefon>59 7121810</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>54.45641,16.98872</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>535</Id_Kina>
+    <Id_Miasta>25</Id_Miasta>
+    <Nazwa>Cinema 3D Galeria Tęcza</Nazwa>
+    <Ulica>3 Maja 1</Ulica>
+    <Telefon>62 5980161</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema3d.pl</WWW>
+    <Lokalizacja>51.76556,18.08612</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>536</Id_Kina>
+    <Id_Miasta>182</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Pomorska 1</Ulica>
+    <Telefon>58 7772616</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.heliosnet.pl</WWW>
+    <Lokalizacja>54.09910,18.77910</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>537</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Tatry</Nazwa>
+    <Ulica>Henryka Sienkiewicza 40</Ulica>
+    <Telefon>505 252 455</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.facebook.com/kinotatrylodz</WWW>
+    <Lokalizacja>51.7649520,19.4619670</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>538</Id_Kina>
+    <Id_Miasta>183</Id_Miasta>
+    <Nazwa>Kino Centrum</Nazwa>
+    <Ulica>1 Maja 15</Ulica>
+    <Telefon>94 3119090</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kultura.bialogard.info</WWW>
+    <Lokalizacja>54.0077600,15.9856500</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>539</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Kino 5D Extreme</Nazwa>
+    <Ulica>Turystyczna 1</Ulica>
+    <Telefon>81 5847194</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino5dextreme.pl</WWW>
+    <Lokalizacja>51.2511200,22.6004900</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>540</Id_Kina>
+    <Id_Miasta>184</Id_Miasta>
+    <Nazwa>Kino Wilga</Nazwa>
+    <Ulica>Nadwodna 1</Ulica>
+    <Telefon>25 6822051</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.csik.garwolin.pl</WWW>
+    <Lokalizacja>51.8971800,21.6182100</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>541</Id_Kina>
+    <Id_Miasta>185</Id_Miasta>
+    <Nazwa>RCK Feniks</Nazwa>
+    <Ulica>Strzelców Bytomskich 9a</Ulica>
+    <Telefon>32 4577006</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.rck.rydultowy.pl</WWW>
+    <Lokalizacja>50.0661500,18.4192700</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>542</Id_Kina>
+    <Id_Miasta>186</Id_Miasta>
+    <Nazwa>Kino Szarotka</Nazwa>
+    <Ulica>Powstańców Wlkp. 27</Ulica>
+    <Telefon>65 5711320</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kultura.krobia.pl</WWW>
+    <Lokalizacja>51.7729400,16.9774800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>543</Id_Kina>
+    <Id_Miasta>187</Id_Miasta>
+    <Nazwa>Kino MOK</Nazwa>
+    <Ulica>Konstytucji 3-go Maja 30</Ulica>
+    <Telefon>95 7411802</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mokmiedzyrzecz.pl</WWW>
+    <Lokalizacja>52.4412873,15.5822794</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>544</Id_Kina>
+    <Id_Miasta>188</Id_Miasta>
+    <Nazwa>Kino Krapkowice</Nazwa>
+    <Ulica>Prudnicka 7</Ulica>
+    <Telefon>77 4460312</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kdk.krapkowice.pl</WWW>
+    <Lokalizacja>50.4733700,17.9645600</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>545</Id_Kina>
+    <Id_Miasta>189</Id_Miasta>
+    <Nazwa>Kino 3D</Nazwa>
+    <Ulica>Armii Polskiej 13</Ulica>
+    <Telefon>65 5432320</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>dkgora.com.pl</WWW>
+    <Lokalizacja>51.6637500,16.5390200</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>546</Id_Kina>
+    <Id_Miasta>190</Id_Miasta>
+    <Nazwa>Grójecki Ośrodek Kultury</Nazwa>
+    <Ulica>Józefa Piłsudskiego 3</Ulica>
+    <Telefon>48 6642306</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinogrojec.pl</WWW>
+    <Lokalizacja>51.8657500,20.8691400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>547</Id_Kina>
+    <Id_Miasta>2</Id_Miasta>
+    <Nazwa>Orzeł</Nazwa>
+    <Ulica>Marcinkowskiego 12</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kino-orzel.pl</WWW>
+    <Lokalizacja>53.1273700,17.9975700</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>548</Id_Kina>
+    <Id_Miasta>191</Id_Miasta>
+    <Nazwa>Kino Gwiazda</Nazwa>
+    <Ulica>Generała Władysław Sikorskiego 24A</Ulica>
+    <Telefon>89 7512238</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.ketrzyn.pl</WWW>
+    <Lokalizacja>54.0782800,21.3747300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>549</Id_Kina>
+    <Id_Miasta>192</Id_Miasta>
+    <Nazwa>Kino Rusałka</Nazwa>
+    <Ulica>Grunwaldzka 17</Ulica>
+    <Telefon>15 8761020</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mokrudnik.pl</WWW>
+    <Lokalizacja>50.4398600,22.2482300</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>550</Id_Kina>
+    <Id_Miasta>16</Id_Miasta>
+    <Nazwa>Kino Tumult</Nazwa>
+    <Ulica>Rynek Nowomiejski 28</Ulica>
+    <Telefon>56 6210019</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.tumult.pl</WWW>
+    <Lokalizacja>53.0118400,18.6108800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>551</Id_Kina>
+    <Id_Miasta>193</Id_Miasta>
+    <Nazwa>Kino Radość</Nazwa>
+    <Ulica>Leśna 2</Ulica>
+    <Telefon>32 6441341</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>dk.wolbrom.pl</WWW>
+    <Lokalizacja>50.3753100,19.7610400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>552</Id_Kina>
+    <Id_Miasta>194</Id_Miasta>
+    <Nazwa>Kino Centrum</Nazwa>
+    <Ulica>Juliusza Słowackiego 25</Ulica>
+    <Telefon>41 2531482</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>mck.skarzysko.pl/kino/</WWW>
+    <Lokalizacja>51.1140000,20.8650000</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>553</Id_Kina>
+    <Id_Miasta>195</Id_Miasta>
+    <Nazwa>Kino MDK</Nazwa>
+    <Ulica>3 Maja 15</Ulica>
+    <Telefon>34 3132659</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>mdk-myszkow.pl</WWW>
+    <Lokalizacja>50.5776700,19.3339600</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>554</Id_Kina>
+    <Id_Miasta>196</Id_Miasta>
+    <Nazwa>Kino Wielkopolanin</Nazwa>
+    <Ulica>Pl. Stanisława Reszki 29</Ulica>
+    <Telefon>61 8140370</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.bibliotekabuk.pl</WWW>
+    <Lokalizacja>52.3576920,16.5212830</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>555</Id_Kina>
+    <Id_Miasta>197</Id_Miasta>
+    <Nazwa>Kino Sokolnia</Nazwa>
+    <Ulica>Traugutta 5</Ulica>
+    <Telefon>63 2772511</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mdk.slupca.pl</WWW>
+    <Lokalizacja>52.291249,17.873336</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>556</Id_Kina>
+    <Id_Miasta>198</Id_Miasta>
+    <Nazwa>Kino Lewart</Nazwa>
+    <Ulica>Rynek II</Ulica>
+    <Telefon>81 8552585</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinolewart.yoyo.pl</WWW>
+    <Lokalizacja>51.4628500,22.6098900</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>557</Id_Kina>
+    <Id_Miasta>199</Id_Miasta>
+    <Nazwa>Kino Trójka</Nazwa>
+    <Ulica>Koszarowa 14</Ulica>
+    <Telefon>61 4366446</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.trojka.net.pl</WWW>
+    <Lokalizacja>52.3214600,17.5798400</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>558</Id_Kina>
+    <Id_Miasta>200</Id_Miasta>
+    <Nazwa>Kino Ton</Nazwa>
+    <Ulica>Plac Piłsudskiego 27</Ulica>
+    <Telefon>23 6572799</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.zetceka.republika.pl</WWW>
+    <Lokalizacja>53.0659335,19.9094125</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>559</Id_Kina>
+    <Id_Miasta>201</Id_Miasta>
+    <Nazwa>Kino Zodiak</Nazwa>
+    <Ulica>Warszawska 26</Ulica>
+    <Telefon>89 7433470</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.ckit.mragowo.pl</WWW>
+    <Lokalizacja>53.8654700,21.3048800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>560</Id_Kina>
+    <Id_Miasta>202</Id_Miasta>
+    <Nazwa>Kino Kalejdoskop</Nazwa>
+    <Ulica>Płocka 50</Ulica>
+    <Telefon>23 6622662</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mckplonsk.pl</WWW>
+    <Lokalizacja>52.6226500,20.3667400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>561</Id_Kina>
+    <Id_Miasta>55</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Armii Krajowej 38</Ulica>
+    <Telefon>77 5458336</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.helios.pl</WWW>
+    <Lokalizacja>50.3426100,18.1915300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>562</Id_Kina>
+    <Id_Miasta>203</Id_Miasta>
+    <Nazwa>Kino Odeon</Nazwa>
+    <Ulica>3-go Maja 2</Ulica>
+    <Telefon>44 7145880</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino-odeon.pl</WWW>
+    <Lokalizacja>51.7429100,19.8162600</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>563</Id_Kina>
+    <Id_Miasta>204</Id_Miasta>
+    <Nazwa>Kino Ikar</Nazwa>
+    <Ulica>Plac Mickiewicza 6</Ulica>
+    <Telefon>16 6214434</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.mok-jar.pl</WWW>
+    <Lokalizacja>50.0164100,22.6825200</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>564</Id_Kina>
+    <Id_Miasta>15</Id_Miasta>
+    <Nazwa>Helios Outlet Park</Nazwa>
+    <Ulica>Andrzeja Struga 42</Ulica>
+    <Telefon>91 8106760</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.helios.pl</WWW>
+    <Lokalizacja>53.3813900,14.6706300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>565</Id_Kina>
+    <Id_Miasta>13</Id_Miasta>
+    <Nazwa>Helios Galeria</Nazwa>
+    <Ulica>Józefa Piłsudskiego 44</Ulica>
+    <Telefon>17 7771290</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.helios.pl</WWW>
+    <Lokalizacja>50.0419300,21.9981900</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>566</Id_Kina>
+    <Id_Miasta>148</Id_Miasta>
+    <Nazwa>Kino Kosmos</Nazwa>
+    <Ulica>Ignacego Lisa 3</Ulica>
+    <Telefon>14 6800225</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>50.0475300,21.4002100</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>567</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Niebo Kopernika</Nazwa>
+    <Ulica>Wybrzeże Kościuszkowskie 20</Ulica>
+    <Telefon>22 5964100</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.niebokopernika.pl</WWW>
+    <Lokalizacja>52.2418200,21.0280600</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>568</Id_Kina>
+    <Id_Miasta>205</Id_Miasta>
+    <Nazwa>Kino Nowość</Nazwa>
+    <Ulica>Potockiego 3</Ulica>
+    <Telefon>32 2673552</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kinonowosc.bedzin.pl</WWW>
+    <Lokalizacja>50.3236200,19.1323300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>569</Id_Kina>
+    <Id_Miasta>206</Id_Miasta>
+    <Nazwa>Kino Kuźnica</Nazwa>
+    <Ulica>Bodzentyńska 18</Ulica>
+    <Telefon>41 2543094</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kuznica-suchedniow.pl</WWW>
+    <Lokalizacja>51.0438600,20.8359500</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>570</Id_Kina>
+    <Id_Miasta>51</Id_Miasta>
+    <Nazwa>DKF Rumcajs</Nazwa>
+    <Ulica>Al. Armii Krajowej 23/25</Ulica>
+    <Telefon>34 3250220</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.rumcajs.czest.pl</WWW>
+    <Lokalizacja>50.8243600,19.1161400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>571</Id_Kina>
+    <Id_Miasta>97</Id_Miasta>
+    <Nazwa>Helios Galeria Olimpia</Nazwa>
+    <Ulica>Kolejowa 6</Ulica>
+    <Telefon>44 7159560</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.helios.pl</WWW>
+    <Lokalizacja>51.3547100,19.3773400</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>572</Id_Kina>
+    <Id_Miasta>11</Id_Miasta>
+    <Nazwa>Kino Meduza</Nazwa>
+    <Ulica>Oleska 45</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>opolskielamy.pl</WWW>
+    <Lokalizacja>50.6741700,17.9315700</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>573</Id_Kina>
+    <Id_Miasta>207</Id_Miasta>
+    <Nazwa>Kino Projekt</Nazwa>
+    <Ulica>Świerkowa 1</Ulica>
+    <Telefon>22 7589441</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ckiopodkowa.pl</WWW>
+    <Lokalizacja>52.1215600,20.7245600</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>574</Id_Kina>
+    <Id_Miasta>208</Id_Miasta>
+    <Nazwa>Kino Aurum</Nazwa>
+    <Ulica>Pl. Reymonta 5</Ulica>
+    <Telefon>76 8783374</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.zokir.pl</WWW>
+    <Lokalizacja>51.1219700,15.9140000</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>575</Id_Kina>
+    <Id_Miasta>209</Id_Miasta>
+    <Nazwa>Kino Karolinka</Nazwa>
+    <Ulica>Plebiscytowa 9</Ulica>
+    <Telefon>34 3510683</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mdk.lubliniec.pl</WWW>
+    <Lokalizacja>50.6698100,18.6907400</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>576</Id_Kina>
+    <Id_Miasta>210</Id_Miasta>
+    <Nazwa>Kino Zdrój</Nazwa>
+    <Ulica>Aleja Adama Mickiewicza 22</Ulica>
+    <Telefon>41 3783572</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.bsck.busko.pl</WWW>
+    <Lokalizacja>50.4617700,20.7197800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>577</Id_Kina>
+    <Id_Miasta>211</Id_Miasta>
+    <Nazwa>Kino Wawel</Nazwa>
+    <Ulica>7 Dywizji 15</Ulica>
+    <Telefon>75 7222118</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>51.1175500,15.2897800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>578</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Kino ABC</Nazwa>
+    <Ulica>Kiepury 5a</Ulica>
+    <Telefon>81 7419911</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>dkf16.blogspot.com</WWW>
+    <Lokalizacja>51.2595900,22.5455000</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>579</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Kino Grażyna</Nazwa>
+    <Ulica>Konrada Wallenroda 4a</Ulica>
+    <Telefon>81 7434829</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinograzyna.pl</WWW>
+    <Lokalizacja>51.2595900,22.5455000</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>580</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Dom Sztuki</Nazwa>
+    <Ulica>Wiolinowa 14</Ulica>
+    <Telefon>22 6437935</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.domsztuki.art.pl</WWW>
+    <Lokalizacja>52.1613900,21.0268000</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>581</Id_Kina>
+    <Id_Miasta>2</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Fordońska 141</Ulica>
+    <Telefon>52 5810063</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.helios.pl</WWW>
+    <Lokalizacja>53.1253800,18.0664300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>582</Id_Kina>
+    <Id_Miasta>212</Id_Miasta>
+    <Nazwa>Kino Miejskie SCK</Nazwa>
+    <Ulica>Radomska 21</Ulica>
+    <Telefon>41 2746525</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>sck.org.pl</WWW>
+    <Lokalizacja>51.0532800,21.0644800</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>584</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Antropos</Nazwa>
+    <Ulica>Kredytowa 1</Ulica>
+    <Telefon>22 8277641 wew. 201</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.antropos.gutekfilm.pl</WWW>
+    <Lokalizacja>52.2379000,21.0118700</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>585</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Elektor</Nazwa>
+    <Ulica>Elektoralna 12</Ulica>
+    <Telefon>22 5864259</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinoelektor.pl</WWW>
+    <Lokalizacja>52.2406600,20.9981600</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>583</Id_Kina>
+    <Id_Miasta>213</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Armii Krajowej 52a</Ulica>
+    <Telefon>75 6750110</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>51.1530600,15.0256700</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>586</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Pawilon Nowej Gazowni</Nazwa>
+    <Ulica>Ewangelicka 1</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.pawilon.org</WWW>
+    <Lokalizacja>52.4079100,16.9400700</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>587</Id_Kina>
+    <Id_Miasta>28</Id_Miasta>
+    <Nazwa>Cinema 3D</Nazwa>
+    <Ulica>Al. Konstytucji 3 Maja 12</Ulica>
+    <Telefon>65 5376548</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.cinema3d.pl</WWW>
+    <Lokalizacja>51.8267800,16.6004300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>588</Id_Kina>
+    <Id_Miasta>214</Id_Miasta>
+    <Nazwa>Kino MDK</Nazwa>
+    <Ulica>Brzeźnicka 5</Ulica>
+    <Telefon>519 144 508</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.mdkradomsko.pl</WWW>
+    <Lokalizacja>51.0648100,19.4424700</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>589</Id_Kina>
+    <Id_Miasta>3</Id_Miasta>
+    <Nazwa>KinoPort</Nazwa>
+    <Ulica>Strajku Dokerów 5</Ulica>
+    <Telefon>51 2957699</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.laznia.pl</WWW>
+    <Lokalizacja>54.4000600,18.6715409</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>590</Id_Kina>
+    <Id_Miasta>94</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Jana Pawła II 18/16</Ulica>
+    <Telefon />
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.multikino.pl</WWW>
+    <Lokalizacja>50.1073100,18.9978700</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>591</Id_Kina>
+    <Id_Miasta>215</Id_Miasta>
+    <Nazwa>Morskie Oko</Nazwa>
+    <Ulica>Stefana Okrzei 10</Ulica>
+    <Telefon>82 5762218 wew. 20</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.kino.krasnystaw.pl</WWW>
+    <Lokalizacja>50.9831400,23.1675200</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>592</Id_Kina>
+    <Id_Miasta>152</Id_Miasta>
+    <Nazwa>Kino Studyjne - Świadomego Widza</Nazwa>
+    <Ulica>Szewska 7</Ulica>
+    <Telefon>33 8753105</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kultura.andrychow.eu/kino</WWW>
+    <Lokalizacja>49.855607,19.339663</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>593</Id_Kina>
+    <Id_Miasta>216</Id_Miasta>
+    <Nazwa>Kino Drawa</Nazwa>
+    <Ulica>Dworcowa 1</Ulica>
+    <Telefon>94 3413896</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kulturadrawsko.pl/pl/repertuar-kina-drawa.html</WWW>
+    <Lokalizacja>53.52559,15.818011</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>594</Id_Kina>
+    <Id_Miasta>13</Id_Miasta>
+    <Nazwa>Kino Cinetrix 6D</Nazwa>
+    <Ulica>Krakowska 20</Ulica>
+    <Telefon>17 7179191</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinetrix.pl</WWW>
+    <Lokalizacja>50.0492800,21.9765400</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>595</Id_Kina>
+    <Id_Miasta>12</Id_Miasta>
+    <Nazwa>Studio Słodownia +3</Nazwa>
+    <Ulica>Półwiejska 42, Stary Browar</Ulica>
+    <Telefon>61 8596122</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.studioslodownia.pl</WWW>
+    <Lokalizacja>52.40297,16.92974</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>596</Id_Kina>
+    <Id_Miasta>217</Id_Miasta>
+    <Nazwa>Kino Kongres</Nazwa>
+    <Ulica>Mickiewicza 4a</Ulica>
+    <Telefon>25 7920059</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>www.wegrow-wok.pl</WWW>
+    <Lokalizacja>52.3965700,22.0190500</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>597</Id_Kina>
+    <Id_Miasta>218</Id_Miasta>
+    <Nazwa>Ostrovia</Nazwa>
+    <Ulica>11 Listopada 5</Ulica>
+    <Telefon>29 7454091</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>kino.mdkostrowmaz.pl</WWW>
+    <Lokalizacja>52.804902,21.894783</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>598</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino Letnie Perła</Nazwa>
+    <Ulica>Kredytowa 9</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>kinoperla.pl</WWW>
+    <Lokalizacja>52.2376600,21.0099497</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>599</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Park na Zdrowiu</Nazwa>
+    <Ulica>Minerska 1</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>51.763869,19.403311</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>600</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Park Julianowski</Nazwa>
+    <Ulica>Jaworowa 31</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>51.807978,19.446566</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>601</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Park Baden Powella</Nazwa>
+    <Ulica>Stanisława Małachowskiego 5/7</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinocytryna.pl</WWW>
+    <Lokalizacja>51.769154,19.502167</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>602</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Tobaco Park</Nazwa>
+    <Ulica>Mikołaja Kopernika 62/54</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinocytryna.pl</WWW>
+    <Lokalizacja>51.758384,19.437751</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>603</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Dziedziniec Akademii Humanistyczno-Ekonomicznej</Nazwa>
+    <Ulica>Sterlinga 26</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinocytryna.pl</WWW>
+    <Lokalizacja>51.775461,19.468067</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>604</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Pole Mokotowskie</Nazwa>
+    <Ulica>Pole Mokotowskie</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.209436,20.994345</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>605</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Park Skaryszewski</Nazwa>
+    <Ulica>Park Skaryszewski</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.243627,21.057042</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>606</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Kino Letnie w Ogrodzie Saskim</Nazwa>
+    <Ulica>Ogród Saski</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.241256,21.009418</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>607</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Ursynowskie Lato Filmowe: Kopa Cwila</Nazwa>
+    <Ulica>Kopa Cwila</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.164574,21.022658</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>608</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Kępa Potocka</Nazwa>
+    <Ulica>Kępa Potocka</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.277204,20.991697</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>609</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Park Bródnowski</Nazwa>
+    <Ulica>Park Bródnowski</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.291396,21.038213</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>610</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Park Henrykowski</Nazwa>
+    <Ulica>Park Henrykowski</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.331501,20.967606</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>611</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Amfiteatr Bemowo</Nazwa>
+    <Ulica>Amfiteatr Bemowo</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.2336500,20.9059100</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>612</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: Rembertów</Nazwa>
+    <Ulica>Górka przy Strażackiej, Rembertów</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.261801,21.155182</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>613</Id_Kina>
+    <Id_Miasta>17</Id_Miasta>
+    <Nazwa>Filmowa Stolica Lata: RKS Okęcie</Nazwa>
+    <Ulica>Stadion RKS Okęcie</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.filmowastolica.pl</WWW>
+    <Lokalizacja>52.188457,20.966542</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>614</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino Letnie Polówka: Dach Galerii Łódzkiej Central Park</Nazwa>
+    <Ulica>Aleja marsz. Józefa Piłsudskiego 15/23</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW />
+    <Lokalizacja>51.759978,19.465406</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>615</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>3D Wytwórnia</Nazwa>
+    <Ulica>Łąkowa 29</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinowytwornia.pl</WWW>
+    <Lokalizacja>51.758331,19.443952</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>616</Id_Kina>
+    <Id_Miasta>14</Id_Miasta>
+    <Nazwa>Teatr na Plaży</Nazwa>
+    <Ulica>Al. Mamuszki 2</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.teatrnaplazy.pl</WWW>
+    <Lokalizacja>54.44831,18.568492</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>617</Id_Kina>
+    <Id_Miasta>219</Id_Miasta>
+    <Nazwa>Kino Zdrój</Nazwa>
+    <Ulica>Żelazna 5</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>mck.ciechocinek.pl</WWW>
+    <Lokalizacja>52.880695,18.789858</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>618</Id_Kina>
+    <Id_Miasta>220</Id_Miasta>
+    <Nazwa>Kino Opolanka</Nazwa>
+    <Ulica>Lubelska 30</Ulica>
+    <Telefon>81 8272567</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.ockopolelubelskie.pl</WWW>
+    <Lokalizacja>51.1511500,21.9715900</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>619</Id_Kina>
+    <Id_Miasta>46</Id_Miasta>
+    <Nazwa>Kino Cinetrix</Nazwa>
+    <Ulica>Wiśniowieckiego 116</Ulica>
+    <Telefon>18 4143990</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.cinetrix.pl</WWW>
+    <Lokalizacja>49.603285,20.719568</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>620</Id_Kina>
+    <Id_Miasta>9</Id_Miasta>
+    <Nazwa>Kino MS2</Nazwa>
+    <Ulica>Ogrodowa 19</Ulica>
+    <Telefon>42 6343948</Telefon>
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>msl.org.pl</WWW>
+    <Lokalizacja>51.778741,19.44981</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>621</Id_Kina>
+    <Id_Miasta>4</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Kazimierza Górskiego 2</Ulica>
+    <Telefon>58 7790001</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>helios.pl</WWW>
+    <Lokalizacja>54.5029600,18.5312800</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>622</Id_Kina>
+    <Id_Miasta>68</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Legionów 83</Ulica>
+    <Telefon>32 6619710</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>multikino.pl</WWW>
+    <Lokalizacja>49.9073500,18.9986300</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>623</Id_Kina>
+    <Id_Miasta>46</Id_Miasta>
+    <Nazwa>Helios</Nazwa>
+    <Ulica>Lwowska 80</Ulica>
+    <Telefon>18 4401186</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>helios.pl</WWW>
+    <Lokalizacja>49.6244600,20.7084500</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>624</Id_Kina>
+    <Id_Miasta>8</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>Aleja Spółdzielczości Pracy 36</Ulica>
+    <Telefon>81 4602810</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>multikino.pl</WWW>
+    <Lokalizacja>51.2670200,22.5724400</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>625</Id_Kina>
+    <Id_Miasta>221</Id_Miasta>
+    <Nazwa>Światowid</Nazwa>
+    <Ulica>Kościuszki 60</Ulica>
+    <Telefon>67 2552651</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>kino.czarnkow.pl</WWW>
+    <Lokalizacja>52.9007100,16.5617400</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>626</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Teatr Barakah</Nazwa>
+    <Ulica>Paulińska 28</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.teatrbarakah.com</WWW>
+    <Lokalizacja>50.050443,19.940633</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>627</Id_Kina>
+    <Id_Miasta>7</Id_Miasta>
+    <Nazwa>Mikro Bronowice</Nazwa>
+    <Ulica>Stawowa 61</Ulica>
+    <Telefon />
+    <DolbySurround>false</DolbySurround>
+    <Parking>false</Parking>
+    <Niepelnosprawni>false</Niepelnosprawni>
+    <WWW>www.kinomikro.pl</WWW>
+    <Lokalizacja>50.0925400,19.8979700</Lokalizacja>
+    <Klimatyzacja>false</Klimatyzacja>
+  </Kino>
+  <Kino>
+    <Id_Kina>628</Id_Kina>
+    <Id_Miasta>5</Id_Miasta>
+    <Nazwa>Multikino</Nazwa>
+    <Ulica>3 Maja 30</Ulica>
+    <Telefon>32 6614100</Telefon>
+    <DolbySurround>true</DolbySurround>
+    <Parking>true</Parking>
+    <Niepelnosprawni>true</Niepelnosprawni>
+    <WWW>multikino.pl</WWW>
+    <Lokalizacja>50.259471,19.016987</Lokalizacja>
+    <Klimatyzacja>true</Klimatyzacja>
+  </Kino>
+</Kina>

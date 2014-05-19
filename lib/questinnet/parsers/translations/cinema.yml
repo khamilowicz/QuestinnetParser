@@ -1,0 +1,13 @@
+path_to_content: 'Kina,Kino'
+Nazwa: name
+Id_Kina: id
+Ulica: street
+Id_Miasta: city_id
+Nazwa: name
+Ulica: street
+Telefon: phone
+DolbySurround: dolby_surround
+Parking: parking_lot
+Niepelnosprawni: disabled_access
+WWW: www
+Klimatyzacja: air_conditioning

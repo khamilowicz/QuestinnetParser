@@ -1,0 +1,16 @@
+credentials:
+  address: 'localhost:21212'
+  username: "Anonymous"
+  password: ''
+show:
+  path: '/'
+  file_prefix: 'seanse'
+film:
+  path: '/'
+  file_prefix: 'opisy'
+cinema:
+  path: '/'
+  file_prefix: 'kina'
+city:
+  path: '/'
+  file_prefix: 'miasta'

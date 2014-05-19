@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Seanse xmlns="http://tempuri.org/Seanse.xsd">
+  <Seans>
+    <Id_Kina>1</Id_Kina>
+    <DataStartowa>2013-12-26</DataStartowa>
+    <DataKoncowa>2013-12-26</DataKoncowa>
+    <Godziny>14.30</Godziny>
+    <TytulSeansu />
+    <Rodzaj1 />
+    <Rodzaj2 />
+    <ProjekcjaSpecjalna />
+    <Filmy>
+      <Film>
+        <Id_Filmu>17031</Id_Filmu>
+        <Typ>1</Typ>
+        <Dubbing />
+        <Napisy>PL</Napisy>
+        <Uwagi />
+      </Film>
+    </Filmy>
+  </Seans>
+  <Seans>
+    <Id_Kina>1</Id_Kina>
+    <DataStartowa>2013-12-20</DataStartowa>
+    <DataKoncowa>2013-12-23</DataKoncowa>
+    <Godziny>20.00</Godziny>
+    <TytulSeansu />
+    <Rodzaj1 />
+    <Rodzaj2 />
+    <ProjekcjaSpecjalna />
+    <Filmy>
+      <Film>
+        <Id_Filmu>20872</Id_Filmu>
+        <Typ>1</Typ>
+        <Dubbing />
+        <Napisy>PL</Napisy>
+        <Uwagi />
+      </Film>
+    </Filmy>
+  </Seans>
+  <Seans>
+    <Id_Kina>1</Id_Kina>
+    <DataStartowa>2013-12-26</DataStartowa>
+    <DataKoncowa>2013-12-26</DataKoncowa>
+    <Godziny>20.15</Godziny>
+    <TytulSeansu />
+    <Rodzaj1 />
+    <Rodzaj2 />
+    <ProjekcjaSpecjalna />
+    <Filmy>
+      <Film>
+        <Id_Filmu>20872</Id_Filmu>
+        <Typ>1</Typ>
+        <Dubbing />
+        <Napisy>PL</Napisy>
+        <Uwagi />
+      </Film>
+    </Filmy>
+  </Seans>
+</Seanse>

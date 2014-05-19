@@ -1,0 +1,14 @@
+---
+path_to_content: "Opisy,Opis"
+Tytul: title
+Id_Opisu: id
+Kraj: country
+TytulOryg: original_title
+RokProdukcji: production_year
+CzasTrwania: :length
+OdIluLat: minimum_age
+Rezyseria: director
+DataPremiery: world_premiere
+DataPolskiejPremiery: premiere
+RodzajFilmu: categories
+Obsada: cast

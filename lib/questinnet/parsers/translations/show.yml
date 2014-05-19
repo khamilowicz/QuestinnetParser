@@ -1,0 +1,15 @@
+path_to_content: "Seanse,Seans"
+Id_Kina: cinema_id
+DataStartowa: start_date
+DataKoncowa: end_date
+Godziny: hours
+Filmy: movies
+Film: movie
+Id_Filmu: movie_id
+Rodzaj1: analog_digital
+Rodzaj2: dimension
+ProjekcjaSpecjalna: special
+Dubbing: dubbing
+Napisy: subtitles
+TytulSeansu: show_title
+Typ: show_type
