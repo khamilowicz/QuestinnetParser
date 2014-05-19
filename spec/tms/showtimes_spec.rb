@@ -15,13 +15,11 @@ end
 
 describe "TMCCinema converter" do
   it "converts tms format into posterro cinema" do
+    pending "in progress"
     VCR.turn_off!
     WebMock.allow_net_connect!
     cinemas = TMSCinemaParser.retrieve
-    binding.pry
-
   end
-
 end
 
 describe "TMS downloader" do
@@ -43,6 +41,7 @@ describe "TMS downloader" do
   end
 
   it "parses output" do
+    pending "key is no longer valid :("
     VCR.turn_off!
     WebMock.allow_net_connect!
     showtimes = TmsShowtimeParser.retrieve

@@ -62,7 +62,11 @@ module Questinnet
       end
 
       def params
-        @params.call
+        if @params.respond_to?(:call)
+          @params.call
+        else
+          @params
+        end
       end
 
       def password

@@ -11,12 +11,12 @@ describe "In order to handle diffrent sources" do
     after do
       tear_down_server
     end
-    it ".retrive will use configured source and type of data" do
-      Date.stub(today: Date.new(2013, 12, 17))
-      out = FandangoTest.retrieve
-      titles = out.map(&:title)
-      titles.should include('Blizna', "Best Night Ever")
-    end
+    #it ".retrive will use configured source and type of data" do
+      #Date.stub(today: Date.new(2013, 12, 17))
+      #out = FandangoTest.retrieve
+      #titles = out.map(&:title)
+      #titles.should include('Blizna', "Best Night Ever")
+    #end
   end
   context "downloader can be configured separately for diffrent providers" do
     before(:each) do
